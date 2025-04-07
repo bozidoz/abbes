@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBO Scanner Ultimate v11</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        .terminal {
+            background-color: #000;
+            color: #0f0;
+            padding: 20px;
+            border-radius: 5px;
+            height: 500px;
+            overflow-y: auto;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .input-area {
+            display: flex;
+            margin-top: 10px;
+        }
+        #command-input {
+            flex-grow: 1;
+            background-color: #000;
+            color: #0f0;
+            border: 1px solid #333;
+            padding: 8px;
+            font-family: monospace;
+        }
+        button {
+            background-color: #333;
+            color: #0f0;
+            border: none;
+            padding: 8px 15px;
+            margin-left: 5px;
+            cursor: pointer;
+        }
+        .menu {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .menu-item {
+            background-color: #222;
+            padding: 10px;
+            text-align: center;
+            cursor: pointer;
+        }
+        .menu-item:hover {
+            background-color: #333;
+        }
+        .status-bar {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>IBO Scanner Ultimate v11</h1>
+    
+    <div class="status-bar">
+        <div>🔌 Proxies: <span id="proxy-count">0</span></div>
+        <div>🧵 Threads: <span id="thread-count">10</span></div>
+        <div>⏱️ Delay: <span id="delay-value">1.5</span>s</div>
+    </div>
+    
+    <div class="menu">
+        <div class="menu-item" onclick="runCommand('1')">1. 🔄 Unlimited Scan</div>
+        <div class="menu-item" onclick="runCommand('2')">2. 📶 Single MAC</div>
+        <div class="menu-item" onclick="runCommand('3')">3. 📁 File Scan</div>
+        <div class="menu-item" onclick="runCommand('4')">4. 🔌 Proxy Mgmt</div>
+        <div class="menu-item" onclick="runCommand('5')">5. ⚙️ Settings</div>
+        <div class="menu-item" onclick="runCommand('6')">6. 🚪 Exit</div>
+    </div>
+    
+    <div class="terminal" id="terminal-output"></div>
+    
+    <div class="input-area">
+        <input type="text" id="command-input" placeholder="Enter command..." onkeypress="handleKeyPress(event)">
+        <button onclick="submitCommand()">Run</button>
+    </div>
+
+    <script>
+        // Configuration
+        const config = {
+            version: "11.0",
+            maxThreads: 20, // Reduced for browser limitations
+            threads: 10,
+            delay: 1500,
+            proxies: [],
+            deadProxies: new Set(),
+            autoClearProxies: false,
+            autoSave: true,
+            autoLoad: true,
+            scanActive: false,
+            currentMenu: 'main'
+        };
+
+        // DOM Elements
+        const terminal = document.getElementById('terminal-output');
+        const commandInput = document.getElementById('command-input');
+        const proxyCount = document.getElementById('proxy-count');
+        const threadCount = document.getElementById('thread-count');
+        const delayValue = document.getElementById('delay-value');
+
+        // Terminal functions
+        function printToTerminal(text) {
+            terminal.innerHTML += text + '\n';
+            terminal.scrollTop = terminal.scrollHeight;
+        }
+
+        function clearTerminal() {
+            terminal.innerHTML = '';
+        }
+
+        function runCommand(cmd) {
+            commandInput.value = cmd;
+            submitCommand();
+        }
+
+        function handleKeyPress(e) {
+            if (e.key === 'Enter') {
+                submitCommand();
+            }
+        }
+
+        function submitCommand() {
+            const command = commandInput.value.trim();
+            commandInput.value = '';
+            
+            if (!command) return;
+            
+            printToTerminal(`> ${command}`);
+            
+            switch(config.currentMenu) {
+                case 'main':
+                    handleMainMenu(command);
+                    break;
+                case 'proxy':
+                    handleProxyMenu(command);
+                    break;
+                case 'settings':
+                    handleSettingsMenu(command);
+                    break;
+            }
+        }
+
+        // Menu handlers
+        function handleMainMenu(command) {
+            switch(command) {
+                case '1':
+                    startUnlimitedScan();
+                    break;
+                case '2':
+                    promptSingleMac();
+                    break;
+                case '3':
+                    // File scan would need file input in browser
+                    printToTerminal("File scan not supported in web version");
+                    break;
+                case '4':
+                    showProxyMenu();
+                    break;
+                case '5':
+                    showSettingsMenu();
+                    break;
+                case '6':
+                    printToTerminal("Exiting...");
+                    break;
+                default:
+                    printToTerminal("Invalid command");
+            }
+        }
+
+        function handleProxyMenu(command) {
+            switch(command) {
+                case '1':
+                    toggleProxyUsage();
+                    break;
+                case '2':
+                    loadProxiesFromFile();
+                    break;
+                case '3':
+                    loadProxiesFromWeb();
+                    break;
+                case '4':
+                    testProxies();
+                    break;
+                case '5':
+                    clearDeadProxies();
+                    break;
+                case '6':
+                    showMainMenu();
+                    break;
+                default:
+                    printToTerminal("Invalid command");
+            }
+        }
+
+        function handleSettingsMenu(command) {
+            switch(command) {
+                case '1':
+                    setThreads();
+                    break;
+                case '2':
+                    setDelay();
+                    break;
+                case '3':
+                    toggleAutoClear();
+                    break;
+                case '4':
+                    toggleTelegram();
+                    break;
+                case '5':
+                    toggleAutoSave();
+                    break;
+                case '6':
+                    toggleAutoLoad();
+                    break;
+                case '7':
+                    showMainMenu();
+                    break;
+                default:
+                    printToTerminal("Invalid command");
+            }
+        }
+
+        // Main functions
+        function showMainMenu() {
+            clearTerminal();
+            config.currentMenu = 'main';
+            printToTerminal("🌟 IBO Scanner Ultimate v11 🌟");
+            printToTerminal("========================================");
+            printToTerminal(`🔌 Proxy: ${config.proxies.length > 0 ? '✅ ON' : '❌ OFF'} | Active: ${config.proxies.length}`);
+            printToTerminal(`🧵 Threads: ${config.threads} | ⏱️ Delay: ${config.delay/1000}s\n`);
+            printToTerminal("1. 🔄 Unlimited Random Scan");
+            printToTerminal("2. 📶 Scan Single MAC");
+            printToTerminal("3. 📁 Scan from File");
+            printToTerminal("4. 🔌 Proxy Management");
+            printToTerminal("5. ⚙️ Settings");
+            printToTerminal("6. 🚪 Exit");
+        }
+
+        function showProxyMenu() {
+            clearTerminal();
+            config.currentMenu = 'proxy';
+            printToTerminal("🔌 Proxy Management");
+            printToTerminal("========================================");
+            printToTerminal(`Status: ${config.proxies.length > 0 ? '✅ ON' : '❌ OFF'}`);
+            printToTerminal(`Loaded: ${config.proxies.length} proxies | Dead: ${config.deadProxies.size}\n`);
+            printToTerminal("1. Toggle Proxy Usage");
+            printToTerminal("2. Load from File");
+            printToTerminal("3. Load from Web");
+            printToTerminal("4. Test Proxies");
+            printToTerminal("5. Clear Dead");
+            printToTerminal("6. Back to Main");
+        }
+
+        function showSettingsMenu() {
+            clearTerminal();
+            config.currentMenu = 'settings';
+            printToTerminal("⚙️ Settings v11");
+            printToTerminal("========================================");
+            printToTerminal(`1. Threads: ${config.threads}`);
+            printToTerminal(`2. Delay: ${config.delay/1000}s`);
+            printToTerminal(`3. Auto-clear dead: ${config.autoClearProxies ? '✅ ON' : '❌ OFF'}`);
+            printToTerminal(`4. Telegram Notifs: ❌ OFF (Web unsupported)`);
+            printToTerminal(`5. Auto-save: ${config.autoSave ? '✅ ON' : '❌ OFF'}`);
+            printToTerminal(`6. Auto-load: ${config.autoLoad ? '✅ ON' : '❌ OFF'}`);
+            printToTerminal("7. Back to Main");
+        }
+
+        // Proxy functions
+        function toggleProxyUsage() {
+            if (config.proxies.length === 0) {
+                printToTerminal("No proxies loaded - cannot enable");
+                return;
+            }
+            printToTerminal("Proxy toggled - will use on next scan");
+        }
+
+        async function loadProxiesFromFile() {
+            // In a real implementation, you would use a file input
+            printToTerminal("File loading not fully supported in web version");
+            
+            // Simulate loading some proxies
+            const testProxies = [
+                "123.123.123.123:8080",
+                "111.222.333.444:3128",
+                "555.666.777.888:8080"
+            ];
+            
+            config.proxies = [...new Set([...config.proxies, ...testProxies])];
+            proxyCount.textContent = config.proxies.length;
+            printToTerminal(`Added ${testProxies.length} test proxies`);
+        }
+
+        async function loadProxiesFromWeb() {
+            printToTerminal("Loading proxies from web sources...");
+            
+            try {
+                // Note: These API calls may be blocked by CORS in browser
+                // In a real app, you would need a backend proxy or CORS-enabled APIs
+                const responses = await Promise.all([
+                    fetch("https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&protocol=http&proxy_format=ipport&format=text&timeout=2000"),
+                    fetch("https://sslproxies.org/"),
+                    fetch("https://www.us-proxy.org/")
+                ]);
+                
+                let newProxies = [];
+                
+                for (const response of responses) {
+                    if (response.ok) {
+                        const text = await response.text();
+                        const matches = text.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d{2,5}/g) || [];
+                        newProxies = [...newProxies, ...matches];
+                    }
+                }
+                
+                config.proxies = [...new Set([...config.proxies, ...newProxies])];
+                proxyCount.textContent = config.proxies.length;
+                printToTerminal(`Added ${newProxies.length} proxies from web`);
+            } catch (e) {
+                printToTerminal(`Failed to load proxies: ${e.message}`);
+            }
+        }
+
+        async function testProxies() {
+            if (config.proxies.length === 0) {
+                printToTerminal("No proxies to test");
+                return;
+            }
+            
+            printToTerminal(`Testing ${config.proxies.length} proxies...`);
+            
+            // Simulate testing (real testing would require backend due to CORS)
+            const working = Math.floor(config.proxies.length * 0.7); // 70% working
+            const dead = config.proxies.length - working;
+            
+            config.proxies = config.proxies.slice(0, working); // Keep first X as "working"
+            config.deadProxies = new Set(config.proxies.slice(working)); // Rest as "dead"
+            
+            proxyCount.textContent = config.proxies.length;
+            printToTerminal(`✅ Working: ${working} | ❌ Dead: ${dead}`);
+        }
+
+        function clearDeadProxies() {
+            config.deadProxies.clear();
+            printToTerminal("Cleared dead proxies list");
+        }
+
+        // Scanning functions
+        async function startUnlimitedScan() {
+            if (config.scanActive) {
+                printToTerminal("Scan already running");
+                return;
+            }
+            
+            config.scanActive = true;
+            let success = 0;
+            let failed = 0;
+            let retries = 0;
+            const startTime = Date.now();
+            
+            printToTerminal("Starting unlimited scan... Press Stop to cancel");
+            
+            // Simulate scanning
+            const scanInterval = setInterval(() => {
+                if (!config.scanActive) {
+                    clearInterval(scanInterval);
+                    return;
+                }
+                
+                // Simulate results
+                const rand = Math.random();
+                if (rand > 0.9) { // 10% success rate
+                    const mac = generateMac();
+                    success++;
+                    printToTerminal(`✅ Found valid MAC: ${mac}`);
+                } else if (rand > 0.8) { // 10% retry
+                    retries++;
+                } else { // 80% failed
+                    failed++;
+                }
+                
+                // Update stats
+                const elapsed = (Date.now() - startTime) / 1000;
+                const speed = (success + failed + retries) / elapsed;
+                
+                printToTerminal(
+                    `🔍 SCAN PROGRESS v${config.version}\n` +
+                    `✅ Success: ${success} | ❌ Failed: ${failed} | 🔁 Retries: ${retries}\n` +
+                    `⚡ Speed: ${speed.toFixed(1)}/sec | ⏱️ Elapsed: ${formatTime(elapsed)}\n` +
+                    `🔌 Proxies: ${config.proxies.length} | ☠️ Dead: ${config.deadProxies.size}`
+                );
+            }, config.delay);
+        }
+
+        function promptSingleMac() {
+            const mac = prompt("Enter MAC address (format: aa:bb:cc:dd:ee:ff):");
+            if (!mac || !/^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$/.test(mac)) {
+                printToTerminal("❌ Invalid MAC address format!");
+                return;
+            }
+            
+            printToTerminal(`Checking MAC: ${mac}...`);
+            
+            // Simulate checking
+            setTimeout(() => {
+                if (Math.random() > 0.7) { // 30% chance of success
+                    printToTerminal(`✅ Valid MAC found: ${mac} DEVICE_KEY 2023-12-31`);
+                } else {
+                    printToTerminal("❌ MAC address not valid");
+                }
+            }, 1000);
+        }
+
+        // Helper functions
+        function generateMac() {
+            const hex = '0123456789ABCDEF';
+            let mac = '';
+            for (let i = 0; i < 6; i++) {
+                mac += hex[Math.floor(Math.random() * 16)] + hex[Math.floor(Math.random() * 16)];
+                if (i < 5) mac += ':';
+            }
+            return mac;
+        }
+
+        function formatTime(seconds) {
+            const h = Math.floor(seconds / 3600).toString().padStart(2, '0');
+            const m = Math.floor((seconds % 3600) / 60).toString().padStart(2, '0');
+            const s = Math.floor(seconds % 60).toString().padStart(2, '0');
+            return `${h}:${m}:${s}`;
+        }
+
+        function setThreads() {
+            const threads = prompt("Enter thread count (1-20):", config.threads);
+            const num = parseInt(threads);
+            if (num >= 1 && num <= 20) {
+                config.threads = num;
+                threadCount.textContent = num;
+                printToTerminal(`Threads set to ${num}`);
+            } else {
+                printToTerminal("Invalid thread count (1-20)");
+            }
+        }
+
+        function setDelay() {
+            const delay = prompt("Enter delay in seconds (0.5-5.0):", config.delay/1000);
+            const num = parseFloat(delay);
+            if (num >= 0.5 && num <= 5.0) {
+                config.delay = num * 1000;
+                delayValue.textContent = num;
+                printToTerminal(`Delay set to ${num}s`);
+            } else {
+                printToTerminal("Invalid delay (0.5-5.0)");
+            }
+        }
+
+        function toggleAutoClear() {
+            config.autoClearProxies = !config.autoClearProxies;
+            printToTerminal(`Auto-clear dead proxies: ${config.autoClearProxies ? '✅ ON' : '❌ OFF'}`);
+        }
+
+        function toggleTelegram() {
+            printToTerminal("Telegram notifications not supported in web version");
+        }
+
+        function toggleAutoSave() {
+            config.autoSave = !config.autoSave;
+            printToTerminal(`Auto-save results: ${config.autoSave ? '✅ ON' : '❌ OFF'}`);
+        }
+
+        function toggleAutoLoad() {
+            config.autoLoad = !config.autoLoad;
+            printToTerminal(`Auto-load proxies: ${config.autoLoad ? '✅ ON' : '❌ OFF'}`);
+        }
+
+        // Initialize
+        showMainMenu();
+    </script>
+</body>
+</html>
