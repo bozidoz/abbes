@@ -2,14 +2,14 @@
   "success": true,
   "data": {
     "isValid": true,
-    "expiresAt": "2023-01-01T00:00:00",
+    "expiresAt": "2030-01-01T00:00:00",
     "message": "Your license has expired.",
     "errorCode": "LICENSE_EXPIRED",
     "offlineToken": "eyJkZXZpY2VLZXlJZCI6IjVhNzA0YmI4NzU2OTA2YTIiLCJ0eXBlIjoiT0RNIiwibGljZW5zZVRpZXIiOiJub25lIiwiZXhwaXJlc0F0IjoxNjcyNTMyMDAwfQ.expired_signature",
     "customerId": "Bozidi_VIP",
     "licenseType": "ODM",
-    "licenseTier": "none",
-    "daysRemaining": 0,
+    "licenseTier": "FULL",
+    "daysRemaining": 999,
     "isRevoked": true,
     "revokedAt": "2023-01-01T00:00:00",
     "revokedReason": "Time Expired"
