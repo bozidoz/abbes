@@ -189,18 +189,26 @@ http://41.205.70.146/BEINSPORT5/index.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS 1 Turkey (Server 2)
 https://wasitv-pro.site/beINSPORTS1TR/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS 1 Turkey (Server 3)
+http://37.27.230.251:8000/play/bein1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 Turkey (Stream 2)
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 Turkey (Server 2)
 https://wasitv-pro.site/beINSPORTS2TR/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 Turkey (Server 3)
+http://37.27.230.251:8000/play/bein2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="beIN Sports",beIN SPORTS 3 Turkey (Stream 2)
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="beIN Sports",beIN SPORTS 3 Turkey (Server 2)
 https://wasitv-pro.site/beINSPORTS3TR/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="beIN Sports",beIN SPORTS 3 Turkey (Server 3)
+http://37.27.230.251:8000/play/bein3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="beIN Sports",beIN SPORTS 4 Turkey (Stream 2)
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="beIN Sports",beIN SPORTS 4 Turkey (Server 2)
 https://wasitv-pro.site/beINSPORTS4TR/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="beIN Sports",beIN SPORTS 4 Turkey (Server 3)
+http://37.27.230.251:8000/play/bein4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="beIN Sports",beIN SPORTS 5 Turkey (Stream 2)
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="beIN Sports",beIN SPORTS 5 Turkey (Server 2)
@@ -222,21 +230,25 @@ https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="beIN Sports",beIN SPORTS Haber (Stream 8)
 https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (VIP MULTI)
-https://streem.rodoye.com/live/WorldCup/max_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (AKAR HD)
-http://akar13.xyz:8080/N2252734512/580502154198/460862
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (AKAR 4K)
-http://akar13.xyz:8080/N2252734512/580502154198/460861
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (AKAR SD)
-http://akar13.xyz:8080/N2252734512/580502154198/460863
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Qn7Y00uqDKPXS8N0x_rbKFYM0igweXIqGVU7HFL4E66kAvspacW4yTkA51DlyfZPgQtXFxb0KCHooA50CiIwqw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (VIP FHD)
+https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Qn7Y00uqDKPXS8N0x_rbKFYM0igweXIqGVU7HFL4E66kAvspacW4yTkA51DlyfZPgQtXFxb0KCHooA50CiIwqw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (VIP HD)
+https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Qn7Y00uqDKPXS8N0x_rbKFYM0igweXIqGVU7HFL4E66kAvspacW4yTkA51DlyfZPgQtXFxb0KCHooA50CiIwqw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (VIP SD)
+https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Qn7Y00uqDKPXS8N0x_rbKFYM0igweXIqGVU7HFL4E66kAvspacW4yTkA51DlyfZPgQtXFxb0KCHooA50CiIwqw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 1 (VIP MULTI)
+https://streem.rodoye.com/live/rr/max1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (VIP MULTI)
-https://streem.rodoye.com/live/WorldCup/max_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (AKAR HD)
-http://akar13.xyz:8080/N2252734512/580502154198/460865
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (AKAR 4K)
-http://akar13.xyz:8080/N2252734512/580502154198/460864
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (AKAR SD)
-http://akar13.xyz:8080/N2252734512/580502154198/460866
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zJj5EIrprdD-H3OtSIQ1FY-245E6F3ByOVsi8tStKeRJ2iVUf0SmBRzgsZMamSJX522ejQ5fyzvQB76WJiicQQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (VIP HD)
+https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/zJj5EIrprdD-H3OtSIQ1FY-245E6F3ByOVsi8tStKeRJ2iVUf0SmBRzgsZMamSJX522ejQ5fyzvQB76WJiicQQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (VIP SD)
+https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/zJj5EIrprdD-H3OtSIQ1FY-245E6F3ByOVsi8tStKeRJ2iVUf0SmBRzgsZMamSJX522ejQ5fyzvQB76WJiicQQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (VIP MULTI)
+https://streem.rodoye.com/live/rr/max2/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 2 (TEST)
+https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/zJj5EIrprdD-H3OtSIQ1FY-245E6F3ByOVsi8tStKeRJ2iVUf0SmBRzgsZMamSJX522ejQ5fyzvQB76WJiicQQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 3 (VIP FHD)
 http://185.191.126.127:8080/%204750034742512197/3177932697568638/460867
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN MAX",beIN SPORTS MAX 3 (VIP HD)
@@ -385,52 +397,34 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Mundial 2026",Arryadia TNT (Stream 1)
 https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (vip hd)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418112
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (vip 4k)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418111
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (vip sd)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418113
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 4)
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/402388.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 2)
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 3)
+http://s1eed.store/live/9499781389/7742676539/402373.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Stream 1)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 5)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport1fhd&key=EWii%23%40%5E%26HNDF2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Stream 2)
 https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 2)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418115
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 3)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418114
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 4)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418116
+http://s1eed.store/live/9499781389/7742676539/402374.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Stream 2)
 https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 2)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418118
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 3)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418117
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 4)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418119
+http://s1eed.store/live/9499781389/7742676539/402375.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Stream 2)
 https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 2)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418121
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 3)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 4)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418122
+http://s1eed.store/live/9499781389/7742676539/402376.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418124
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181672
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 2)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418123
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 3)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418125
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Stream 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418127
+http://s1eed.store/live/9499781389/7742676539/402377.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 1)
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 2)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418126
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 3)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/418128
+http://s1eed.store/live/9499781389/7742676539/402378.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mECyQgn.png" group-title="Alwan",Alwan Sports 7 (Stream 2)
 http://185.191.126.127:8080/%204750034742512197/3177932697568638/433739
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ms4DPwn.png" group-title="Alwan",Alwan Sports 8 (Stream 2)
@@ -591,8 +585,8 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="MBC",MBC Masr 2 (720p HD)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/MBC_Maser_Drama.png/revision/latest/scale-to-width-down/1200?cb=20250711110045" group-title="MBC",MBC Masr Drama (Fallback)
-https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/MBC_Maser_Drama.png/revision/latest/scale-to-width-down/1200?cb=20250711110045" group-title="MBC",MBC Masr Drama (Server 1)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="MBC",MBC Iraq (720p HD)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vlqpeZEEiL70MsCVjCoQreKY4OHXe-rRJkRw8uuXGQYQ5RcgKFCkJEHBKy6_0K-2Yk_Cf7IFNeI=s900-c-k-c0x00ffffff-no-rj" group-title="MBC",MBC Action (Apollo)
@@ -1263,118 +1257,6 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mp
 https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5qxWSrG/ART-HEKAYAT-2.png" group-title="OSN TV",ART Hekayat 2 (Apollo)
 https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd
-#EXTINF:-1 tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="OSN TV",kids.OSN kids zoon (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/98025
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Yahala Aflam (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313384
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Yahala Bil Arabi (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313385
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Yahala Oula (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313386
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa al safwa (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313387
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa Al Fann (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313388
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa Alyoum (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313389
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa Cinema 1 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313390
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa Cinema 2 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313391
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa Musalsalat (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313392
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Alfa Musalsalat +2 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313393
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Art Aflam 1 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313394
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Art Aflam 2 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313395
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Art Hekayat 1 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313396
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Art Hekayat 2 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313397
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Art Cinema (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313398
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN MUSIC (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313344
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Baby (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313346
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Bloomberg (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313347
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Comedy (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313348
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Crime Investigation (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313349
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Discovery (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313350
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Discovery IDX (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313351
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Discovery SC (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313352
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Disney Channel (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313353
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Disney Junior (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313354
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN News (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313355
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN E! (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313356
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Movies Family (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313357
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Ginx eSports (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313358
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN ONE (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313359
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN History 2 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313360
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN History (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313361
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Kids Zone (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313362
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN NOW (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313363
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN MEZZE (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313364
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Moonbug Kids (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313365
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Movies Kids (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313368
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN National Geographic (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313371
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN National Geographic Wild (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313372
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Nick Jr (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313373
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Nickelodeon (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313374
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Movies Premiere (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313369
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",Osn Movie Prime +2 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313345
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN movies action (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313366
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Movies hollywood (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313367
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN NickToon (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313375
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN CRIME (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313376
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN showcase (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313377
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Sky News (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313378
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Star Movies (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313379
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN Star World (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313380
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN TFC (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313381
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN TLC (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313382
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" group-title="OSN TV",OSN VH+1 (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/313383
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="OSN TV",AR: OSN MEZZE 4K (Server 1)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/399459
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Max Sports",MAX SPORT 1 (Stream 2)
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Max Sports",MAX SPORT 2 (Stream 2)
@@ -1467,22 +1349,118 @@ https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Rakuten",Rakuten TV Top Movies Spain (Stream 1)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-laliga.png" group-title="Movistar+",Movistar Laliga (Stream 1)
-https://bobis.zaglemplokis.online/premium84/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-liga-de-campeones.png" group-title="Movistar+",Movistar Liga de Campeones (Stream 1)
-https://zomis.zempovlantis.online/premium435/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-deportes.png" group-title="Movistar+",Movistar Deportes Spain (Stream 1)
-https://zomis.zempovlantis.online/premium436/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/0-spain.png" group-title="Movistar+",Movistar Plus+ (Stream 1)
-https://zomis.zempovlantis.online/premium437/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-deportes-2.png" group-title="Movistar+",Movistar Deportes 2 Spain (Stream 1)
-https://zomis.zempovlantis.online/premium438/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-deportes-3.png" group-title="Movistar+",Movistar Deportes 3 Spain (Stream 1)
-https://agelis.voglempanis.online/premium526/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-deportes-4.png" group-title="Movistar+",Movistar Deportes 4 Spain (Stream 1)
-https://agelis.voglempanis.online/premium527/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/movistar-golf.png" group-title="Movistar+",Movistar Golf Spain (Stream 1)
-https://agelis.voglempanis.online/premium528/index.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="Movistar+",M+ LALIGA (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/252
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="Movistar+",M+ LALIGA (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/253
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="Movistar+",M+ LALIGA (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/254
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="Movistar+",M+ LALIGA (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/97192
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="Movistar+",M+ COPA DEL REY (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/130169
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="Movistar+",M+ LALIGA TV BAR (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/283
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="Movistar+",M+ LIGA DE CAMPEONES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/264
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="Movistar+",M+ LIGA DE CAMPEONES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/97195
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="Movistar+",M+ LIGA DE CAMPEONES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/265
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="Movistar+",M+ LIGA DE CAMPEONES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/97196
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="Movistar+",M+ LIGA DE CAMPEONES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/99051
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 2 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/129635
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 2 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/266
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 3 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/129636
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 3 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/267
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 4 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/268
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="Movistar+",M+ LALIGA TV 2 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/255
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="Movistar+",M+ LALIGA TV 3 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/256
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="Movistar+",M+ LALIGA TV 4 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/56470
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 5 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/269
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 6 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/270
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 7 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/271
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 8 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/272
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 9 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/273
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 10 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/274
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 11 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/275
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 12 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/276
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="Movistar+",M+ LIGA DE CAMPEONES 13 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/277
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="Movistar+",M+ DEPORTES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/286
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="Movistar+",M+ DEPORTES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/128951
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="Movistar+",M+ DEPORTES 2 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/288
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="Movistar+",M+ DEPORTES 3 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/289
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="Movistar+",M+ DEPORTES 4 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/290
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="Movistar+",M+ DEPORTES 5 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/291
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="Movistar+",M+ DEPORTES 6 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/292
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="Movistar+",M+ DEPORTES 7 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/293
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="Movistar+",M+ VAMOS (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/632
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="Movistar+",M+ VAMOS 2 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/156835
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="Movistar+",M+ ELLAS V (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/723
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="Movistar+",M+ GOLF (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/285
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="Movistar+",M+ GOLF 2 (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/58727
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="Movistar+",M+ ACCIÓN (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/656
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="Movistar+",M+ COMEDIA (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/657
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Movistar+",M+ CINE ESPAÑOL (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/658
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="Movistar+",M+ CLÁSICOS (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/659
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="Movistar+",M+ ESTRENOS (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/87110
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="Movistar+",M+ ESTRENOS (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/132309
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="Movistar+",M+ DRAMA (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/660
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="Movistar+",M+ HITS (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/663
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="Movistar+",M+ ORIGINALES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/87107
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="Movistar+",M+ INDIE (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/87106
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="Movistar+",M+ DOCUMENTALES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/87108
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="Movistar+",MOVISTAR PLUS+ (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/87109
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="Movistar+",MOVISTAR DEPORTES (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/4934
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/peru/MOVISTARPLUSTV.png" group-title="Movistar+",MOVISTAR PLUS TV (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/4935
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="Movistar+",MOVISTAR DEPORTES HD VIP (Server 1)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/134210
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Sky-Arts-logo.png" group-title="Sky",SKY ARTS UK (Server 1)
 http://cdn.tv-rds.workers.dev/SkyArtsUK.m3u8
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Sky-Atlantic_logo.png" group-title="Sky",SKY ATLANTIC DEUTSCHLAND (Server 1)
@@ -1561,10 +1539,10 @@ http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/250
 http://cdn.tv-rds.workers.dev/DAZNF1ES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/dazn-f1.png" group-title="DAZN",DAZN F1 ES (Stream 1)
 http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/56469
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LaLiga (Server 2)
-http://cdn.tv-rds.workers.dev/DAZNFLALIGA.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LaLiga (Stream 1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN Mundial (Server 2)
 http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/243
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN Mundial (Server 2)
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/244
 #EXTINF:-1 tvg-logo="https://loodibee.com/wp-content/uploads/ESPN-Logo.png" group-title="ESPN",ESPN (Stream 1)
 http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
 #EXTINF:-1 tvg-logo="https://loodibee.com/wp-content/uploads/ESPN-Logo.png" group-title="ESPN",ESPN (Stream 1)
@@ -1887,6 +1865,22 @@ https://blc2cr.linkip.org/live/90034_.m3u8?play=
 https://blc2cr.linkip.org/live/90035_.m3u8?play=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s" group-title="Majestic",Home Premium 3 (Server 1)
 https://blc2cr.linkip.org/live/90115_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC 8 (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STCT/STCT.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Family (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Cinema (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Drama (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Sports 1 (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Sports 2 (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Sports 3 (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STC3/STC3.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg" group-title="Shahid",STC Sports 4 (Server 1)
+https://fastlyrwb-live.cdn.intigral-ott.net/STC4/STC4.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="Shahid",Thmanyah 1 (Stream 1)
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3KzpyMCd0EAHt8kd5cS2T_UiSIraqp7svQ&s" group-title="Shahid",Thmanyah 2 (Stream 1)
@@ -1913,14 +1907,8 @@ https://wasitv-pro.site/skysportsmainevent/mono.m3u8
 https://wasitv-pro.site/skysportspremierleague/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST - beIN Sports 3 Turkey (Server 1)
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST - DAZN1 Spain (Server 1)
-https://wasitv-pro.site/DAZN1ES/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST - Sky Sport Top Event DE (Server 1)
 https://wasitv-pro.site/SkySportTopEvent/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST - Movistar Liga de Campeones (Server 1)
-https://wasitv-pro.site/MLIGADECAMPEONES/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST - DAZN Eleven 1 Portugal (Server 1)
-https://wasitv-pro.site/ELEVEN1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST - Canal+ Extra 1 Poland (Server 1)
 https://wasitv-pro.site/CLPLExtra1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST - Canal+ France (Server 1)
@@ -2339,18 +2327,6 @@ https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="",Qatar Television 2 (Stream 1)
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png" group-title="",QATAR TV (Stream 1)
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png" group-title="",QATAR TV (Stream 2)
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png" group-title="",QATAR TV (SD)
-https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png" group-title="",QATAR TV 2 (SD)
-https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png" group-title="",QATAR TV 2 (Stream 2)
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png" group-title="",QATAR TV 2 (Stream 3)
-https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="",Abdulmajeed Abdullah (Stream 1)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="",Shahid Aflam (Stream 1)
@@ -2435,12 +2411,8 @@ http://185.9.2.18/chid_521/index.m3u8
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="",LTV (Stream 2)
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="",mtv Lebanon (Stream 1)
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="",mtv Lebanon (Stream 2)
-https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="",mtv Lebanon (Stream 1)
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="",mtv Lebanon (Server 4)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="",NBN (Stream 1)
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="",NBN (Stream 2)
