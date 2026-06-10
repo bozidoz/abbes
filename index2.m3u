@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS 1 (reelpush)
 http://h42.reelpush.online/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS 1 (FULL HD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=b1_1080&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS 1 (PUB)
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS 1 (Stream 8)
@@ -11,7 +13,7 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 http://194.76.0.163:80/gshAXQ2fQa/NZP6JGIxJO//652310?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 (reelpush)
 http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 (Server 13)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 (FULL HD)
 https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs2.marketplace-io-none-kode-steeeee.lol&id=b2_1080&key=EWii%23%40%5E%26HNDF2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN SPORTS 2 (Earthlink)
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
@@ -67,9 +69,9 @@ https://streem.rodoye.com/live/b_9/index.m3u8
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/659435.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728" group-title="beIN Sports",beIN SPORTS 9 (streamly)
 http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016928&extension=ts
-#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/b/19/bein-sports.svg" group-title="beIN Sports",beIN SPORTS (DLIVE)
-http://185.191.126.127:8080/%204750034742512197/3177932697568638/22186
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="beIN Sports",beIN SPORTS News (Stream 1)
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/b/19/bein-sports.svg" group-title="beIN Sports",beIN SPORTS QATAR (DLIVE)
+https://stm.linkip.org/live/1953_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="beIN Sports",beIN SPORTS NEWS (Stream 1)
 https://stm.linkip.org/live/1952_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN SPORTS EN 1 (Stream 1)
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
@@ -167,16 +169,20 @@ http://live.alkatlantv.com:8888/Extra4/index.m3u8
 http://live.alkatlantv.com:8888/Extra5/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_06_bein.com_.png" group-title="beIN Sports",beIN SPORTS XTRA 6 (Server 1)
 http://live.alkatlantv.com:8888/Extra6/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (LOW SD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax1480&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (FULL HD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax1080&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (VIP MULTI)
 https://streem.rodoye.com/live/fac/max1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (SD LOW)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax1480&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (FULL HD)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax1080&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 1)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 11)
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1hqQ09tcIHBPx801gdPEyh5EVLdQEwQI2iADjxUbtNhfiSycKg2cupkhKSzRBVhx-Ruu5VBo3Z-UsNSs-vWD-w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (YACINE)
 https://het4444.ycn-redirect.com/live/lb2/bm1-multi.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 6)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (MULTI)
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/NjdvR1ntLaHjEd_-EIFiuy9gYGkj57n_RAiJifNjQktADVhOBfyx2xSoUvTiFUbZZKiVGrgA9fLdTLZpNB8DMA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\u003dlive
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 10)
+https://playback.livepeer.studio/hls/e71buuva3ydaz708/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 7)
 http://s1eed.store/live/9499781389/7742676539/408645.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 8)
@@ -185,16 +191,26 @@ http://s1eed.store/live/9499781389/7742676539/408647.ts
 http://s1eed.store/live/9499781389/7742676539/408649.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 10)
 http://s1eed.store/live/9499781389/7742676539/408653.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 10)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 11)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (Server 12)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 1 (test)
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/462211.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (LOW SD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax2480&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (FULL HD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax21080&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (VIP MULTI)
 https://streem.rodoye.com/live/ff/max2/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (SD LOW)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax2480&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (FULL HD)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax21080&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (server 1)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (YACINE)
 https://het4444.ycn-redirect.com/live/lb2/bm2-multi.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 6)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (MULTI)
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/HLZRZ-2j5sjFlcoCX8OhoGoEfwFtslUNUeW87YqD1paG9tUU8X0-gCfsS-9PjhIxUzNaqc2EslD6VihyKwxRRg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\u003dlive
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 10)
+https://livepeercdn.studio/hls/c7b6265atnr23lx5/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 7)
 http://s1eed.store/live/9499781389/7742676539/408646.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 8)
@@ -203,26 +219,40 @@ http://s1eed.store/live/9499781389/7742676539/408648.ts
 http://s1eed.store/live/9499781389/7742676539/408650.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 10)
 http://s1eed.store/live/9499781389/7742676539/408654.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 9)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 10)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 11)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 2 (Server 12)
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 3 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax31080&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax31080&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 3 (Server 3)
+https://streem.rodoye.com/live/fn/max3/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 3 (Server 1)
 https://het4444.ycn-redirect.com/live/lb2/bm3-multi.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 4 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax4&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax4&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 4 (Server 3)
+https://streem.rodoye.com/live/vf/max4/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 4 (Server 1)
 https://het4444.ycn-redirect.com/live/lb2/bm4-multi.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 5 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax5&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax5&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 5 (Server 1)
 https://het4444.ycn-redirect.com/live/lb2/bm5-multi.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 6 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax6&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax6&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="FIFA 2026",beIN SPORTS MAX 6 (Server 1)
 https://het4444.ycn-redirect.com/live/lb2/bm6-multi.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA 2026",beIN SPORTS 4K HDR (4K)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=BEIN4KHDR&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=BEIN4KHDR&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="FIFA 2026",M6 (Stream 1)
 http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="FIFA 2026",M6 (DASH)
+https://api-proxad.dc2.oqee.net/playlist/v1/live/613/1/live.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="FIFA 2026",M6 (Stream 9)
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="FIFA 2026",M6 (Server 3)
@@ -231,10 +261,8 @@ https://stm.linkip.org/live/876_.m3u8
 https://stm.linkip.org/live/866_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="FIFA 2026",Rai 1 (Stream 1)
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="FIFA 2026",Rai 2 (Server 1)
-https://srv1.adriatelekom.com/Rai2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="FIFA 2026",Rai 3 (Stream 2)
-https://srv1.adriatelekom.com/Rai3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="FIFA 2026",Rai 1 (Server 2)
+http://169.150.223.25/Rai1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="FIFA 2026",Rai Sport (Stream 1)
 https://srv1.adriatelekom.com/RaiSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="FIFA 2026",La 1 (Stream 1)
@@ -318,13 +346,15 @@ https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="FIFA 2026",Fox Sports 2 (Stream 3)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="FIFA 2026",TVP1 (Multi)
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+https://estreams.tv.nej.cz/dash/CH_TVP1_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="FIFA 2026",ERT Sports 1 (Server 1)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="FIFA 2026",ERT Sports 2 (Server 1)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="FIFA 2026",Antena 1 HD (Server 1)
 https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="FIFA 2026",CT Sports (Multi)
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Servus_%28Zeitschrift%29_logo.svg" group-title="FIFA 2026",Servus (Server 1)
 https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd
 #EXTINF:-1 tvg-logo="https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg" group-title="FIFA 2026",ORF 1 (Server 1)
@@ -333,24 +363,14 @@ https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="FIFA 2026",NBC Universo West (Server 1)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="FIFA 2026",Programme National (FULL HD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=ALG_1&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="FIFA 2026",Programme National (Stream 2)
 http://apk.arabic-ch.space/live/016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="FIFA 2026",Programme National (Server 3)
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6530.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="FIFA 2026",Programme National (Stream 2)
 http://apk.arabic-ch.space/live/008/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115" group-title="FIFA 2026",Now Sports 1 HD (Server 1)
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115" group-title="FIFA 2026",Now Sports 3 HD (Server 1)
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y=
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115" group-title="FIFA 2026",Now Sports 4 HD (Server 1)
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc=
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115" group-title="FIFA 2026",Now Sports 5 HD (Server 1)
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B25&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWx1ME5PZnRHZ2c=
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115" group-title="FIFA 2026",Now Sports 6 HD (Server 1)
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115" group-title="FIFA 2026",Now Sports 7 HD (Server 1)
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="FIFA 2026",Nova Sports 2 SK (Server 1)
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Match%21_2019.png/revision/latest/scale-to-width-down/284?cb=20250106202339" group-title="FIFA 2026",Match! RU (Server 1)
@@ -360,77 +380,107 @@ http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="FIFA 2026",Arryadia TNT (Stream 1)
 https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 4)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport1fhd&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 5)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418111.ts
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport1fhd&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 6)
+http://s1eed.store/live/9499781389/7742676539/402373.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 7)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=1859092&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 5)
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (SD)
 https://stm.linkip.org/live/3461_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Server 5)
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418111.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UibCHUN.png" group-title="Alwan",Alwan Sports 1 (Stream 1)
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport2fhd&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport2fhd&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 6)
+http://s1eed.store/live/9499781389/7742676539/402374.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 5)
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (SD)
+https://stm.linkip.org/live/3460_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 4)
 http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418114.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (Server 3)
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl8AxBh.png" group-title="Alwan",Alwan Sports 2 (SD)
-https://stm.linkip.org/live/3460_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport3fhd&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport3fhd&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 6)
+http://s1eed.store/live/9499781389/7742676539/402375.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 5)
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (SD)
+https://stm.linkip.org/live/3459_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 4)
 http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418117.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (Server 3)
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c9cHkFP.png" group-title="Alwan",Alwan Sports 3 (SD)
-https://stm.linkip.org/live/3459_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport4fhd&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 3)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418120.ts
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport4fhd&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 5)
+http://s1eed.store/live/9499781389/7742676539/402376.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 4)
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181670.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (SD)
 https://stm.linkip.org/live/3458_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVw8Xf.png" group-title="Alwan",Alwan Sports 4 (Server 3)
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418120.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 3)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport5fhd&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 3)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418123.ts
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport5fhd&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 5)
+http://s1eed.store/live/9499781389/7742676539/402377.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 4)
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (SD)
 https://stm.linkip.org/live/3457_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJojLHs.png" group-title="Alwan",Alwan Sports 5 (Server 3)
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418123.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 3)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport6&key=MmYmJhIhdIDJHdoF22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 3)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418126.ts
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport6&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 5)
+http://s1eed.store/live/9499781389/7742676539/402378.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 4)
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (SD)
 https://stm.linkip.org/live/3456_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZxazRS.png" group-title="Alwan",Alwan Sports 6 (Server 3)
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/418126.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mECyQgn.png" group-title="Alwan",Alwan Sports 7 (Stream 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport7&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport7&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mECyQgn.png" group-title="Alwan",Alwan Sports 7 (Server 2)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/433739.ts
+http://s1eed.store/live/9499781389/7742676539/402379.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ms4DPwn.png" group-title="Alwan",Alwan Sports 8 (Server 3)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport8&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ms4DPwn.png" group-title="Alwan",Alwan Sports 8 (Stream 2)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport8&key=MmYmJhIhdIDJHdoF22
+http://s1eed.store/live/9499781389/7742676539/402380.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ms4DPwn.png" group-title="Alwan",Alwan Sports 8 (Server 2)
-https://stream2.oz-tv.store:443/proxy/alwan_sport_58/4K.m3u8
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/433740.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMz1Lw4.png" group-title="Alwan",Alwan Sports 9 (Server 3)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport9&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMz1Lw4.png" group-title="Alwan",Alwan Sports 9 (Stream 1)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport9&key=MmYmJhIhdIDJHdoF22
+http://s1eed.store/live/9499781389/7742676539/402381.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMz1Lw4.png" group-title="Alwan",Alwan Sports 9 (Server 2)
-https://stream2.oz-tv.store:443/proxy/alwan_sport_9/4K.m3u8
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/433741.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EO6RpBf.png" group-title="Alwan",Alwan Sports 10 (Server 3)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport10&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=alwan_sport10&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EO6RpBf.png" group-title="Alwan",Alwan Sports 10 (Server 3)
+http://s1eed.store/live/9499781389/7742676539/402382.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EO6RpBf.png" group-title="Alwan",Alwan Sports 10 (Server 2)
-https://stream2.oz-tv.store:443/proxy/alwan_sport_10/4K.m3u8
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/433742.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s" group-title="Alwan",Fajer TV 1 (Server 1)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_1&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_1&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s" group-title="Alwan",Fajer TV 2 (Server 1)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_2&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_2&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s" group-title="Alwan",Fajer TV 2 (Server 2)
 https://cdn4-mejarhosting.cfd/ftv2_1080p/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s" group-title="Alwan",Fajer TV 3 (Server 1)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_3&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_3&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s" group-title="Alwan",Fajer TV 4 (Server 1)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_4&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_4&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s" group-title="Alwan",Fajer TV 5 (Server 1)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_5&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=AL_FAJER_5&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EarthLink",BN1 EarthLink (Stream 1)
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EarthLink",BN2 EarthLink (Stream 1)
@@ -1680,7 +1730,7 @@ http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-news-gr.png" group-title="Novasport",Nova Sports News GR (Stream 1)
 https://agelis.voglempanis.online/premium639/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-1-portugal.png" group-title="SPORT TV",Sport TV1 Portugal (Server 4)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv1&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv1&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-1-portugal.png" group-title="SPORT TV",Sport TV1 Portugal (Server 3)
 https://stm.linkip.org/live/1097_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-1-portugal.png" group-title="SPORT TV",Sport TV1 Portugal (Server 2)
@@ -1688,7 +1738,7 @@ https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-1-portugal.png" group-title="SPORT TV",Sport TV1 Portugal (Stream 1)
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-2-portugal.png" group-title="SPORT TV",Sport TV2 Portugal (Server 4)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv2&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv2&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-2-portugal.png" group-title="SPORT TV",Sport TV2 Portugal (Server 3)
 https://stm.linkip.org/live/1096_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-2-portugal.png" group-title="SPORT TV",Sport TV2 Portugal (Server 2)
@@ -1696,7 +1746,7 @@ https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-2-portugal.png" group-title="SPORT TV",Sport TV2 Portugal (Stream 1)
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-3-portugal.png" group-title="SPORT TV",Sport TV3 Portugal (Server 4)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv3&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv3&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-3-portugal.png" group-title="SPORT TV",Sport TV3 Portugal (Server 3)
 https://stm.linkip.org/live/1095_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-3-portugal.png" group-title="SPORT TV",Sport TV3 Portugal (Server 2)
@@ -1704,13 +1754,13 @@ https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-3-portugal.png" group-title="SPORT TV",Sport TV3 Portugal (Stream 1)
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-4-portugal.png" group-title="SPORT TV",Sport TV4 Portugal (Server 3)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv4&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv4&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-4-portugal.png" group-title="SPORT TV",Sport TV4 Portugal (Server 2)
 https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-4-portugal.png" group-title="SPORT TV",Sport TV4 Portugal (Stream 1)
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-5-portugal.png" group-title="SPORT TV",Sport TV5 Portugal (Server 4)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv5&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv5&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-5-portugal.png" group-title="SPORT TV",Sport TV5 Portugal (Server 3)
 https://stm.linkip.org/live/716_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-5-portugal.png" group-title="SPORT TV",Sport TV5 Portugal (Server 2)
@@ -1718,7 +1768,7 @@ https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-5-portugal.png" group-title="SPORT TV",Sport TV5 Portugal (Stream 1)
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-6-portugal.png" group-title="SPORT TV",Sport TV6 Portugal (Server 3)
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv6&key=MmYmJhIhdIDJHdoF22
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv6&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-6-portugal.png" group-title="SPORT TV",Sport TV6 Portugal (Server 2)
 https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-6-portugal.png" group-title="SPORT TV",Sport TV6 Portugal (Stream 1)
@@ -1753,8 +1803,6 @@ http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png" group-title="ZIGGO SPORT",ZIGGO SPORT 6 (Stream 1)
 http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="Islamic",Assadisa (Server 2)
-https://stm.linkip.org/live/1215_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="Islamic",Assadisa (Stream 2)
 https://stream-lb.livemedia.ma/assadissa/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Islamic",Alquran (Stream 1)
@@ -2161,16 +2209,12 @@ https://wasitv-pro.site/SPORT1IL/mono.m3u8
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/staticFiles/production/mbc_shahid.svg" group-title="TEST 2",test vip 2 (HD)
 https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia (Server 3)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/414007.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia (Server 2)
-http://194.60.93.157/proxy?url=http://toytcl.xyz/live/omar777/01103978590/414007.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia (Stream 1)
 https://stream-lb.livemedia.ma/arryadia/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="",Athaqafia (Server 2)
-https://stm.linkip.org/live/1218_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="",Athaqafia (Stream 2)
 https://stream-lb.livemedia.ma/athaqafia/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="",Athaqafia (Server 2)
+https://stm.linkip.org/live/1218_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="",Al Maghribia (Stream 1)
 https://stream-lb.livemedia.ma/almaghribia/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="",Al Maghribia (Server 2)
@@ -2185,6 +2229,8 @@ https://stream-lb.livemedia.ma/telemaroc/hls/master.m3u8
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png" group-title="",Chada TV (Server 2)
 https://stm.linkip.org/live/1221_.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="",Programme National (FULL HD)
+https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=ALG_1&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="",Programme National (Stream 2)
 http://apk.arabic-ch.space/live/016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="",Programme National (Server 3)
@@ -2989,6 +3035,10 @@ http://drmv3-m6.info/play/live.php?mac=00:1A:79:84:1A:60&stream=35527&extension=
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1280px-Logo_TF1_2013.svg.png" group-title="",TF1 (Server 2)
 https://stm.linkip.org/live/877_.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="",Rai 2 (Server 1)
+https://srv1.adriatelekom.com/Rai2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="",Rai 3 (Stream 2)
+https://srv1.adriatelekom.com/Rai3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="",111 TV (Stream 1)
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="",12 TV Parma (Stream 1)
@@ -5973,6 +6023,242 @@ https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/primasport3.png" group-title="",Prima Sport 3 (Server 1)
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Reezn Event",[Baloncesto] NBA: Spurs vs Knicks - Finals Game #4 (STP) (Server 1)
+https://14c51.streameasthd.net:443/global/espndeportes/index.m3u8?token=17f2894451097296631b1d240f159072dd39e3a3-73-1781137830-1781083830&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Campeonato de Portugal] Leca vs Vitoria Sernache (FAWA) (Server 1)
+http://193.47.62.59/hls/HYYY.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Cricket] Australia W vs West Indies W (FAWA) (Server 1)
+http://193.47.62.59/hls/hyhyhyhy.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Cricket] England W vs India W (FAWA) (Server 1)
+http://193.47.62.59/hls/hyhyhyhy.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Cycling] Cycling Tour Auvergne Rhone (FAWA) (Server 1)
+http://193.47.62.59/hls/dppp.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Fighting] AEW (ROXIE) (Server 1)
+https://601.shadow-ran.online/aew.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Finland Cup] Ilves vs Lahti (FAWA) (Server 1)
+http://193.47.62.59/hls/FNNNQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Finland Cup] KuPS vs VPS (FAWA) (Server 1)
+http://193.47.62.59/hls/FNNN.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Finland Cup] SJK vs Inter Turku (FAWA) (Server 1)
+http://193.47.62.59/hls/FNNNQQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Friendly Match] DR Congo U20 vs Saudi Arabia U21 (FAWA) (Server 1)
+http://193.47.62.59/hls/hyhyhyhyqQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Friendly Match] Pakistan vs Afghanistan (FAWA) (Server 1)
+http://193.47.62.59/hls/HYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Futbol] MLB: San Diego Padres vs Cincinnati Reds (PLIBRE) (Server 1)
+https://cgxheq.fubo18.com:443/espn3/mono.m3u8?token=81c529c33fe511ed66ce9cd208eb4a910bb37fdc-ec-1781109929-1781091929
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Fútbol] Amistoso: Inglaterra vs Costa Rica (STP) (Server 1)
+https://doc1.streameasthd.net:443/global/vix2/index.m3u8?token=30bb9b4e59f5a229109e9b4b2598309519e5d6d3-c3-1781137830-1781083830&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Fútbol] Amistoso: Portugal vs Nigeria (STP) (Server 1)
+https://14c51.streameasthd.net:443/global/espn/index.m3u8?token=60fc574332a7069eaace1bd2d7a37f3a0191e95e-94-1781137830-1781083830&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Fútbol] Liga 2: Málaga vs Las Palmas (STP) (Server 1)
+https://pre.streameasthd.net:443/global/disney1/index.m3u8?token=82aae31e185000f37e592f392a04c7c865bd0398-42-1781137830-1781083830&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Horse Racing] Horse Racing 1 (FAWA) (Server 1)
+http://193.47.62.194/hls/vavavava.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Horse Racing] Horse Racing 2 (FAWA) (Server 1)
+http://193.47.62.194/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Argentina vs Algeria (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiYjdhOGIxYjA4ZDRhZjU2ZiJ9.2564b0706f9d52a2f928762ddcd22bccfbcdd35dbe1101d78ec60f4d21202627
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Australia vs Türkiye (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiNzhlNTk3ZjQ3MGVkZDNhYiJ9.440c0ea55e62556e996e350b7e5672af514ac59e65815fdc45be512663c0563a
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Austria vs Jordan (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiNWFhMmQyZDhiMDNiNWYwNCJ9.d44d6cc443827e50d76b8ada0575f6a2f511c57d6523532ebab81377e626388e
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Belgium vs Egypt (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiMDZlNGZmMjc0NjRmOWM2MCJ9.46398c08ec191cd2c9e24c863430ad4c9c547ec4f90f152eae40a1783aee8b78
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Bolivia vs Algeria (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch5/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g1IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiYjMyOTk5MzU5NmIxMWZjYSJ9.65ed0809f3033fc5c2057e11e2fd8db22ca2ccbfe8ad4c72e09b60ff8e4a05f1
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Brazil vs Haiti (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiNTFiYmZlMGI1ZWQyOTgwYyJ9.0af6acf6e5ffb1a2743c6718b8bd6d99ae29add6016b5319492f959504894095
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Brazil vs Morocco (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiMWIxOTA3ZTc0ODJiNjQyMSJ9.7b6a3c1d8eaf4c6c10451785379cb887bcb320db6d93b54c96afc3b10fc8032c
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] CKB Potężnie Ciechocinek vs Royal Kraków (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch6/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g2IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiZmJiNmQ3ZDdhNDczMTRhYSJ9.722791ade27e12f612091d6d218a04b7e0bde1ee964b59577e41de7c71843ad1
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Canada vs Bosnia and Herzegovina (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiMjQzMmFmNDNjNDZkYTBiMiJ9.8eee6f83783122a729f6f3c501879d320258d5e79bf16d8018fe6e720bf0ebc4
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Canada vs Qatar (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiYjc4ZTcwODk0MWY3MjBlMiJ9.736eee9dc7b2a5f9c2440f2e3d382f24205796c08d035a316386e85da0c30d1b
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Chicago Cubs vs Colorado Rockies 1 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/cubs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Chicago Cubs vs Colorado Rockies 2 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/rockies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Cincinnati Reds vs San Diego Padres 1 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/reds/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Cincinnati Reds vs San Diego Padres 2 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/padres/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Czech Republic vs South Africa (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiOWQ2MWY4YTMxY2MxYmI5NiJ9.7d8b5e2ee7c71b2980d43622a581980cd76eac7f517c22fa09c7c6f4846076f9
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Côte d'Ivoire vs Ecuador (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiNmNlOWMwOWZhNzkxZWU0MyJ9.19004c21def0f78d50362df99b0df696800c919501631bbb4b451bd23690d109
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Ecuador vs Curaçao (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODk0LCJyYW5kIjoiNjhlMjcwZTc4NTI2YTg5MCJ9.d6b616f6a5b5b831f79d965fd01d5fe9a09e44313e632ef65dbb2fa2cc5623f8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] England vs Costa Rica (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiMDJjNzM2OGFmOTUwMDgzZiJ9.a8bf97b5ed0f9c5183f5bfecfefc3c111eb0ff095d967b3d0796bb6a3292b09d
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] England vs Croatia (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiOTEzOGY3MmMyZWMwZmI4NCJ9.32d2b74925952d060f16e6124e6f0b74e8729bac8c698ba45bec5841a88acfc0
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] France vs Senegal (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiNzQ0ZjQyNGViMTI3NzkxOCJ9.1260d98d12f6a09aa6b969e07523bcc34486ec6689d8c3ff0e9285e4948b80d3
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Germany vs Curaçao (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiZDE4MzJhMmIxYmU5NmQyMiJ9.826bb96ea5ac4171764bbac47e68766081df23a0306fe3ac36ab5a5b819c98a5
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Germany vs Côte d'Ivoire (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiNTYyZDQ0ZGE0NmFjYzMyYiJ9.ad8b764fc15767bd607e501d23ef9e23f20753507a590ac4cb0ea052867fb765
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Ghana vs Panama (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiOTc2OGY3ZjZiYWNhMDA5ZiJ9.19bcd684f1d0ff5f1c718f7a8383de833ff5e926306346371790b3313c338e52
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Haiti vs Scotland (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiN2Q0MmU5NTEyYTkzMjM1MCJ9.de05450f24919138855e614f5a04386d9ac7e94f0a07250ae5cde775ba08491f
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Houston Astros vs Los Angeles Angels 1 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/astros/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Houston Astros vs Los Angeles Angels 2 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/angels/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Iran vs New Zealand (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiYmIyY2Y2M2FhMWJkYTllMiJ9.c945b32c55bc4506a8e93f08d9c1330642fac6317a54b787769077fd048854e0
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Iraq vs Norway (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiYjlmNjk2OTZhMjI3OTlmOCJ9.619331acaeb3090aa3cf4b9d67e0296ae0655825ca123b1f9565b5155f8fc28d
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Korea Republic vs Czechia (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiZGNlOTVjOGI2NmRlOGMyNCJ9.0638e967217de5e2e9cf2c23721e74741975f40552bfa757c5cd694aa13dc17d
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Mexico vs Korea Republic (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiNzU5NjVjM2UwNGVjMTY5ZSJ9.db480ccd5f422f4ef9889785631454342a69763538c5065106dd1c3b39e9e99a
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Mexico vs South Africa (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiYzljNzA3YWJjOGNiMjU3ZCJ9.080512f2f243a5e52aa2d7def5e88841a1c146c1e6986de94979dafc14f63930
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Milwaukee Brewers vs Athletics 1 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/athletics/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Milwaukee Brewers vs Athletics 2 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/brewers/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Netherlands vs Japan (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiM2IxMmRjMWIzNDQ5YjM4ZiJ9.24f6240ddb8007bf7aa08985e00efa2052fe081bb44ead783b3289eab5309edd
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Netherlands vs Sweden (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiZDE2YzM5MTE0YjdmMWYxMiJ9.3956074dfa36fd0cd08b837c92f6c5dc21157349bc823aeb8ab9235fef2c346d
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] New York Knicks vs San Antonio Spurs (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiMWI1ZDNmYjc2Y2NhMmM3NCJ9.caa06881eda12fd0864fbfa109fe8fe2fa929c3074d7e55921fe533faa43024c
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Portugal vs Congo DR (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiODJkNWYxYjg5OGM2ZjdhZSJ9.fb583898fa80ff3304620161d8096ea20a306edebfc0f44f9aa09c9e8b525863
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Portugal vs Nigeria (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiZDBlOWNmNGU1OGZlNzJhMCJ9.0358ad23531406104e0a11c5e11bb55d2dc02be75ca4c65787b3907111a90f9c
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Qatar vs Switzerland (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiZGVhYjJhN2I2NDkwNzQ0MSJ9.ff213f57653b6185f892c26f842136e497154ff7ce078271ba2cb8a2484ec64b
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Saudi Arabia vs Uruguay (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiOWU4ODZhMTI5YjEyNjRjYiJ9.6e20f54cc7663fe4d5829a9fd061a55c7db472b97aef49c1781528930a3d296f
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Scotland vs Morocco (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiOTM0MDJjOWE4YjY4ZWQ5YiJ9.b801086cc061a79b418378e7452cf9ba5cb10c97fc7706e5c591d6484537dc72
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Spain vs Cape Verde Islands (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiNmI2OWMyYTczMWVlYzI4NSJ9.ffd9ff20abd58278bb68ece1efea50beac20821d38ae6adbaa7d14412bfc937e
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Spain vs Saudi Arabia (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODk0LCJyYW5kIjoiZTBhZTNkZWIwNTRmZTczOCJ9.b420a18cfbc34cca93c17f48c7851730fdcfb7aa912860e22fb0485ec0402bc5
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Sweden vs Tunisia (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkxLCJyYW5kIjoiMmMxYWJkMWYxNjNmMjg0MyJ9.94d3509bc361cdf991ce694f3be3b8aa60bc17d940cb8d264ad3ecab59758c43
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Switzerland vs Bosnia and Herzegovina (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiYjc1MDBhYjk2NTI2ZDAyZSJ9.4499b129dd186985c10efb0e7f22ff0bc6a6c152bc7fb1b2d2f18646ef135247
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Tunisia vs Japan (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODk0LCJyYW5kIjoiYzU4M2E4YmZkYzBmNmE5MSJ9.e13b560eb3a4293c1f187f663424dfaa682013abe54fbb178994f6b964ca7a6a
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Turkey vs Paraguay ITV 1 UK (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiMGM5YWYwNzcyMzNlODc4NCJ9.2179d1ca46ac530621e64a1bc0dea17a64a2176639664bec093133ccd2a9c75b
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] USA vs Australia (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiOTRjMzIyOTQzYzdmOGRhYyJ9.a5914769953dc5f5729d65e35f231a1b6707ff92a21dab1ac68f168fd8ea0519
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] USA vs Paraguay (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiNmZkNDM3MzdlYmJlYzQxZiJ9.89489cebcfc08f364b31d148a0f201277f002d71b51547c918a96acc3139ffdc
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Uzbekistan vs Colombia (VIVATOPS) (Server 1)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiZTk4MTMxODJiZjQ0ZWI5ZSJ9.2cccbc62e4c0872223e8f9767faf833b8f8b181dc1697904a73cef55c50421ee
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Washington Nationals vs San Francisco Giants 1 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/giants/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Live Event] Washington Nationals vs San Francisco Giants 2 (XYZSTRM) (Server 1)
+https://blog.xyzstreams.shop/nationals/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Arizona Diamondbacks vs Miami Marlins (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Astros vs Angels (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=lb34VHeNC9-frrMzlUIOuKn48mp2p-JQDo-cdw2lfOg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%2F&expires=1781107244/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og/106.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Atlanta Braves vs Chicago White Sox (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Boston Red Sox vs Tampa Bay Rays (ROXIE) (Server 1)
+https://601.shadow-ran.online/mlb.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Braves vs White Sox (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=i4Jpdcn0VURw-txkiNKfkeZ4-8gheS1NYtNMieWg6I0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%2F&expires=1781107240/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb/123.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Brewers vs Athletics (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=0fv54uvoSCGbtMqxIr1o8Kz6kSjvRGTrSeFkDo2quhE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u%2F&expires=1781107243/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF-u7n6hzdamqIEEb0FLN2u/128.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Cardinals vs Mets (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=tZmuE1Xruswy4zilP6UjZGbs-ZiKGnLlZ4ZP3FmIxII&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F&expires=1781107239/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy/109.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Chicago Cubs vs Colorado Rockies (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Cincinnati Reds vs San Diego Padres (ROXIE) (Server 1)
+https://601.sandhost.qzz.io/mlb4.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Cubs vs Rockies (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=GSqePsnPg5gBKguKDZZsXmBPkaiD_tdjKAccpNaZeB4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F&expires=1781107241/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U/119.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Diamondbacks vs Marlins (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=RhFohRYhYoTOyHqYdL-7dBA_uETbln3_T6x0dSHrkWM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1781107236/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Dodgers vs Pirates (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=oVAV9Z7b9_ZY9EniDcezk989OOiRXI7nG4cnJJUYVuY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D%2F&expires=1781107237/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D/113.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Houston Astros vs Los Angeles Angels (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Los Angeles Dodgers vs Pittsburgh Pirates (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Mariners vs Orioles (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=7lv6ALPcPipGlgnzH6lS1ln5dZPr09CnO9eTydYK9ck&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z%2F&expires=1781107232/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhj5yKZgmNmrid0VdU6z9z/237.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Milwaukee Brewers vs Athletics (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Minnesota Twins vs Detroit Tigers (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Nationals vs Giants (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=3I_x1KIRiwK68idDdXj0xARw_tkkj8vu-Qagi8sPOHA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%2F&expires=1781107230/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq/107.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] New York Yankees vs Cleveland Guardians (ROXIE) (Server 1)
+https://601.thelistener.pk/mlb2.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Philadelphia Phillies vs Toronto Blue Jays (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Phillies vs Jays (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=5FrQ0B3-b0VPanq88hHqxh7Bp6K6pyF8R-rExPDNc5U&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F&expires=1781107238/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1/125.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Rangers vs Royals (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=iL-mOrW2mR6m2DXhZpu-jxLtJGu2sFjCQ4jfDv-LnZ0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ%2F&expires=1781107240/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGQ3CsFs9mnOho0me5yBXiQ/117.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Red Sox vs Rays (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=yRUxbRbFHaT2PLnBbYfCjSizW902bDzSvRmBirum70I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1781107230/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Reds vs Padres (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=BemuClxNMGlft1ATc4-o0GuCmm1EvXjYrvlzR9nmqlY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne%2F&expires=1781107231/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne/126.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Seattle Mariners vs Baltimore Orioles (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] St. Louis Cardinals vs New York Mets (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Texas Rangers vs Kansas City Royals (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Twins vs Tigers (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=LoG9NefSmgWwHEpo81myruRj8g59k86GJdUAfwzgHHI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1781107232/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Washington Nationals vs San Francisco Giants (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Reezn Event",[MLB] Yankees vs Guardians (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=r_8pqrqXU4GoDH7F7UGrowr5xmjBFZvmMM2vavaVxUA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1781107230/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Reezn Event",[NHL] Hurricanes vs Knights (WEBCAST) (Server 1)
+https://webcast-origin.b-cdn.net/bcdn_token=vt5LBq4g22phGhl2yBLuN9cC_KSaWWHOXvJ7Z3UlhWg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q%2F&expires=1781107244/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q/96.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Reezn Event",[National Basketball Association] San Antonio Spurs vs New York Knicks (STRMSGATE) (Server 1)
+https://instreams.pro/US/NBA1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Racing] WEC - Free Practice (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/wec.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Racing] WEC - Qualifying (ROXIE) (Server 1)
+https://601.shadow-ran.online/wec.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Racing] WEC - Qualifying 2 (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Snooker] Snooker China Opene 1 (FAWA) (Server 1)
+http://193.47.62.59/hls/brrrQQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Snooker] Snooker China Opene 2 (FAWA) (Server 1)
+http://193.47.62.59/hls/brrrQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Snooker] Snooker China Opene 3 (FAWA) (Server 1)
+http://193.47.62.59/hls/brrr.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Soccer] Bolivia vs Algeria (ROXIE) (Server 1)
+https://daffodil.shadow-ran.online/fsp.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Soccer] England vs Costa Rica (ROXIE) (Server 1)
+https://601.formaturamaxi.com.br/itv.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Reezn Event",[Soccer] Portugal vs Nigeria (ROXIE) (Server 1)
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[South Africa Betway Premiership] Cape Town City vs Magesi (FAWA) (Server 1)
+http://193.47.62.59/hls/hyhyhyhyq.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Sweden Svenska Cupen] Falu vs Gefle (FAWA) (Server 1)
+http://193.47.62.59/hls/HYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Reezn Event",[Tennis ATP] Tennis ATP Hertogenbosch (FAWA) (Server 1)
+http://193.47.62.42/hls/GAAA.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Reezn Event",[Tennis ATP] Tennis ATP Stuttgart (FAWA) (Server 1)
+http://193.47.62.42/hls/GAAAQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Tennis WTA] Tennis WTA London/Hertogenbosch (FAWA) (Server 1)
+http://193.47.62.42/hls/GAAAQQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Volleyball Nations League] Belgium vs Bulgaria (FAWA) (Server 1)
+http://193.47.62.59/hls/BIIII.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Volleyball Nations League] Turkey vs USA (FAWA) (Server 1)
+http://193.47.62.59/hls/BIIIIX.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Reezn Event",[Volleyball Nations League] Ukraine vs Japan (FAWA) (Server 1)
+http://193.47.62.59/hls/BIIII.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png" group-title="",Eurosport 1 (Server 1)
 https://stm.linkip.org/live/787_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="",Eurosport 2 (Server 1)
@@ -6301,12 +6587,10 @@ https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/3DPOPG2.webp" group-title="",Laliga (Server 1)
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Al Aoula (Server 2)
-http://194.60.93.157/proxy?url=http://toytcl.xyz/live/omar777/01103978590/414001.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Al Aoula (Server 3)
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/414001.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Al Aoula (Stream 1)
 https://stream-lb.livemedia.ma/alaoula-tnt/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Al Aoula (Server 3)
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/414001.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="",2M TV (Stream 1)
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="",2M TV (Stream 2)
@@ -6320,25 +6604,21 @@ https://stream-lb.livemedia.ma/2m-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="",2M TV (HD)
 https://stream-lb.livemedia.ma/2m/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia1 (Stream 1)
-https://stm.linkip.org/live/1223_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia1 (Stream 1)
 https://stream-lb.livemedia.ma/arryadia-hd-01/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia2 (Stream 1)
-http://194.60.93.157/proxy?url=http://toytcl.xyz/live/omar777/01103978590/414009.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia1 (Stream 1)
+https://stm.linkip.org/live/1223_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia2 (Server 2)
 https://stream-lb.livemedia.ma/arryadia-hd-02/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia3 (Stream 1)
-http://194.60.93.157/proxy?url=http://toytcl.xyz/live/omar777/01103978590/414010.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="",Arryadia3 (Stream 1)
 https://stream-lb.livemedia.ma/arryadia-hd-03/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a26Tbao.png" group-title="",Tamazight (Server 2)
-https://stm.linkip.org/live/1215_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a26Tbao.png" group-title="",Tamazight (Stream 2)
 https://stream-lb.livemedia.ma/tamazight/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Laayoun (Stream 1)
-https://stm.linkip.org/live/1219_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a26Tbao.png" group-title="",Tamazight (Server 2)
+https://stm.linkip.org/live/1215_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Laayoun (Stream 2)
 https://stream-lb.livemedia.ma/laayounetv/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="",Laayoun (Stream 1)
+https://stm.linkip.org/live/1219_.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aH6MCNHJ1M03jCyIpRb83J94RqIGobrppQ&s" group-title="",AD Al Emarat (Stream 1)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aH6MCNHJ1M03jCyIpRb83J94RqIGobrppQ&s" group-title="",AD Al Emarat (Stream 2)
