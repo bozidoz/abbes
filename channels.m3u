@@ -142,85 +142,155 @@ https://live.aab1.top/live/odai/123321/64.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="beIN SPORTS",beIN 4k HDR [Server 1]
 https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=BEIN4KHDR&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/372345.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; 22071212AG Build/AP3A.240905.015.A2)&Referer=https://x.com
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/256102.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; 22071212AG Build/AP3A.240905.015.A2)&Referer=https://x.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 2 ( HD )]
 http://het4444.ycn-redirect.com/live/610303030/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 3 (SD)]
-https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax1480&key=FfImFGjgGH0RELNMgddfwegfwe2FDWSFEW*
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 4 (FHD)]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 3 (FHD)]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/255224.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 5 (SD)]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 4 (SD)]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/255242.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 6 ( HD ²)]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 5 ( HD ²)]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/255236.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; 22071212AG Build/AP3A.240905.015.A2)&Referer=https://x.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 6  ( LOW )]
+http://het4444.ycn-redirect.com/live/181818444/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 7  ( FHD³ )]
+https://www.darisoft.shop//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 1 [Server 8]
+https://reezzzn.staticdev9.workers.dev/bmax1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 1 ( 4k)]
-http://maveniptv.net:80/live/31639398816/56784564674/372346.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 2 ( HD )]
-http://het4444.ycn-redirect.com/live/1515000000/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 3 ( SD)]
+http://live.lynxiptv.xyz:80/live/171348492752/5S6HGsea3j/256109.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 2 ( SD)]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/256120.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 4 ( FHD)]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 3 ( FHD)]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/255225.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 5 ( SD )]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 4 ( SD )]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/255243.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 6 ( HD ²)]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 5 ( HD ²)]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/255237.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; 22071212AG Build/AP3A.240905.015.A2)&Referer=https://x.com
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 6  ( FHD )]
+https://reezzzn.staticdev9.workers.dev/bmax21080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 7 ( FHD )]
+https://www.darisoft.shop//s2_bn_max_2_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 2 [Server 8]
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 3 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/372595.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/256104.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 3 [Server 2 ( FHD )]
+https://www.darisoft.shop//s2_bn_max_3_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 3 [Server 3]
+https://reezzzn.staticdev9.workers.dev/bmax3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 4 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/384841.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+http://live.lynxiptv.xyz:80/live/171348492752/5S6HGsea3j/256111.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 4 [Server 2]
+http://live.lynxiptv.xyz:80/live/171348492752/5S6HGsea3j/256105.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 4 [Server 3]
+https://www.darisoft.shop//s2_bn_max_4_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 4 [Server 4]
+https://reezzzn.staticdev9.workers.dev/bmax4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 5 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/403550.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/256106.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 5 [Server 2 ( FHD )]
+https://www.darisoft.shop//s2_bn_max_5_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 5 [Server 3]
+https://reezzzn.staticdev9.workers.dev/bmax5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 6 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/403562.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/390814.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 2]
-http://maveniptv.net:80/live/Neserrn202334/hGTXB2CzTg4Y/390814.m3u8
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/256107.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 6 [Server 2 ( FHD )]
+https://www.darisoft.shop//s2_bn_max_6_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqK1TKpk/Picsart-26-06-08-14-28-17-644.png" group-title="FIFA WORLD CUP 26",beIN MAX 6 [Server 3]
+https://reezzzn.staticdev9.workers.dev/bmax6.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 1 (CON)]
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/259496.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 2 ( T0D )]
+https://reezzzn.staticdev9.workers.dev/BEIN4KHDR.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 3 ( T0D ² )]
+http://live.lynxiptv.xyz/live/171348492752/5S6HGsea3j/260146.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 4]
-http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/ziggo_sport.png" group-title="FIFA WORLD CUP 26",ZIGGO SPORT [Server 1]
-https://live.aab1.top/live/odai/123321/72.ts
+http://live.lynxiptv.xyz/live/anes34/87msit89svtu/260179.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 5]
+http://asmr4k.pro:8080/live/05347247405/3100934708/1246130.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="FIFA WORLD CUP 26",beIN 4k HDR [Server 6]
+http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApFF2vh05Pm77xAri1hzN_awZK4o-TXbH12A3rMDV5Q&s=10" group-title="FIFA WORLD CUP 26",ZDF FHD [Server 1]
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286061.m3u8
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/fox_sports_2.png" group-title="FIFA WORLD CUP 26",FOX SPORTS 2 [Server 1]
-https://live.aab1.top/live/odai/123321/74.ts
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/144112.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUyzhzEPx7_-8UWNnOG0H36r7T49Lnm0eCXxPSpPJZA&s" group-title="FIFA WORLD CUP 26",FR M6 [Server 1]
-http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/251217.m3u8
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/tnt_sports_3.png" group-title="FIFA WORLD CUP 26",TNT SPORTS 2 [Server 1]
-https://live.aab1.top/live/odai/123321/76.ts
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/tnt_sports_3.png" group-title="FIFA WORLD CUP 26",TNT SPORTS 3 [Server 1]
-https://live.aab1.top/live/odai/123321/77.ts
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/tnt_sports_3.png" group-title="FIFA WORLD CUP 26",TNT SPORTS 4 [Server 1]
-https://live.aab1.top/live/odai/123321/78.ts
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/espn_1.png" group-title="FIFA WORLD CUP 26",ESPN 1 [Server 1]
-https://live.aab1.top/live/odai/123321/79.ts
-#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/espn_2.png" group-title="FIFA WORLD CUP 26",ESPN 2 [Server 1]
-https://live.aab1.top/live/odai/123321/80.ts
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/136871.m3u8
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3815tc00v0.jpg" group-title="FIFA WORLD CUP 26",PRIME MAX EVENT 1 HDR [Server 1]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/254754.m3u8
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3815tc00v0.jpg" group-title="FIFA WORLD CUP 26",PRIME MAX EVENT 2 HDR [Server 1]
 http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/254753.m3u8
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3815tc00v0.jpg" group-title="FIFA WORLD CUP 26",PRIME MAX EVENT 3 HDR [Server 1]
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/254755.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="FIFA WORLD CUP 26",DAZN WC 1 [Server 1]
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/259724.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="FIFA WORLD CUP 26",DAZN WC 2 [Server 1]
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/259725.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="FIFA WORLD CUP 26",DAZN WC 3 [Server 1]
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/259726.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="FIFA WORLD CUP 26",DAZN WC 4 [Server 1]
+http://185.160.192.14/live/%31%37%31348492752/%35S6HGsea3j/259727.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJ-mny6GJCLxYmx3NDwj9k5VUseNh8-wQA3MDDE4Yvg&s=10" group-title="FIFA WORLD CUP 26",IRIB UHD [Server 1]
+https://live-aburayhan1112.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 1 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310487.m3u8
+https://www.darisoft.shop//alwan_1_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 1 [Server 2]
+https://www.darisoft.shop//alwan_1_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 1 [Server 3]
+https://www.darisoft.shop//alwan_1_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 2 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310488.m3u8
+https://www.darisoft.shop//alwan_2_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 2 [Server 2]
+https://www.darisoft.shop//alwan_2_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 2 [Server 3]
+https://www.darisoft.shop//alwan_2_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 3 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310489.m3u8
+https://www.darisoft.shop//alwan_3_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 3 [Server 2]
+https://www.darisoft.shop//alwan_3_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 3 [Server 3]
+https://www.darisoft.shop//alwan_3_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 4 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310490.m3u8
+https://www.darisoft.shop//alwan_4_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 4 [Server 2]
+https://www.darisoft.shop//alwan_4_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 4 [Server 3]
+https://www.darisoft.shop//alwan_4_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 5 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310491.m3u8
+https://www.darisoft.shop//alwan_5_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 5 [Server 2]
+https://www.darisoft.shop//alwan_5_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 5 [Server 3]
+https://www.darisoft.shop//alwan_5_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 6 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310492.m3u8
+https://www.darisoft.shop//alwan_6_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 6 [Server 2]
+https://www.darisoft.shop//alwan_6_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 6 [Server 3]
+https://www.darisoft.shop//alwan_6_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 7 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310493.m3u8
+https://www.darisoft.shop//alwan_7_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 7 [Server 2]
+https://www.darisoft.shop//alwan_7_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 7 [Server 3]
+https://www.darisoft.shop//alwan_7_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 8 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310494.m3u8
+https://www.darisoft.shop//alwan_8_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 8 [Server 2]
+https://www.darisoft.shop//alwan_8_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 8 [Server 3]
+https://www.darisoft.shop//alwan_8_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 9 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310495.m3u8
+https://www.darisoft.shop//alwan_9_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 9 [Server 2]
+https://www.darisoft.shop//alwan_9_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 9 [Server 3]
+https://www.darisoft.shop//alwan_9_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 10 [Server 1]
-http://maveniptv.net:80/live/31639398816/56784564674/310496.m3u8
+https://www.darisoft.shop//alwan_10_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 10 [Server 2]
+https://www.darisoft.shop//alwan_10_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEwUhb-XQAEN5vQ.jpg" group-title="ALWAN GROUP",Alwan Sport 10 [Server 3]
+https://www.darisoft.shop//alwan_10_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/al_majd_quran.png" group-title="AL MAJED",AL MAJD QURAN [Server 1]
 https://live.aab1.top/live/odai/123321/1329.ts
 #EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/al_majd_space.png" group-title="AL MAJED",AL MAJD SPACE [Server 1]
