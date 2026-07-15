@@ -67,6 +67,76 @@ http://ar.ycncdn.online/live/016/index.m3u8?t=|Referer=http://x.com/
 https://live20.bozztv.com/giatv/giatv-stv/stvsport/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 26",PTV WORLD CUP [Server 1]
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BeIN_Sports_logo.png/200px-BeIN_Sports_logo.png" group-title="beIN ENT",beIN Baraem HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/a9db480158e0.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/beinn/beinser100.png" group-title="beIN ENT",beIN Drama HD 1 [Server 1]
+https://primeott.sytes.net/live/prime/tv/ac263cbdc613.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/beinn/beinser100.png" group-title="beIN ENT",beIN Dream Works [Server 1]
+https://primeott.sytes.net/live/prime/tv/45e7c20b7eba.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BeIN_Sports_logo.png/200px-BeIN_Sports_logo.png" group-title="beIN ENT",beIN Fatafeat HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/dbd0a5ea2037.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_logo.svg/200px-National_Geographic_logo.svg.png" group-title="beIN ENT",beIN Nat Geo Wild HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/ca4e13250b7c.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BeIN_Sports_logo.png/200px-BeIN_Sports_logo.png" group-title="beIN ENT",beIN Outdoor [Server 1]
+https://primeott.sytes.net/live/prime/tv/5577e9bdae2e.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/beinn/beinser100.png" group-title="beIN ENT",beIN Series HD 1 [Server 1]
+https://primeott.sytes.net/live/prime/tv/d712ccb249ba.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/beinn/beinser100.png" group-title="beIN ENT",beIN Series HD 2 [Server 1]
+https://primeott.sytes.net/live/prime/tv/bbb400e6156a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BeIN_Sports_logo.png/200px-BeIN_Sports_logo.png" group-title="beIN ENT",beIN Disney Junior [Server 1]
+https://primeott.sytes.net/live/prime/tv/53e4de9e7cec.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN ENT",beIN MOVIES 1 [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/257999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN ENT",beIN MOVIES 2 [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/258000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN ENT",beIN MOVIES 3 [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/258001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN ENT",beIN MOVIES 4 [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/258002.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC 1 HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/44610761cd03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC 2 HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/36f0768cb023.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC 3 HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/4dd5641d3f65.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC 4 HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/0ee194159c49.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC 5 HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/a30a44130901.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Action HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/abdbf16ee628.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Bollywood [Server 1]
+https://primeott.sytes.net/live/prime/tv/0911ed390d7e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Drama [Server 1]
+https://primeott.sytes.net/live/prime/tv/5cd65193df4b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Drama+ HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/8f08c562749d.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Max [Server 1]
+https://primeott.sytes.net/live/prime/tv/d1b5b72b078f.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Plus [Server 1]
+https://primeott.sytes.net/live/prime/tv/a1703b8279b1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Power [Server 1]
+https://primeott.sytes.net/live/prime/tv/ea683fc28305.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Premium [Server 1]
+https://primeott.sytes.net/live/prime/tv/daabfa71e97b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Premium 2 [Server 1]
+https://primeott.sytes.net/live/prime/tv/78c0932c4813.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Seven [Server 1]
+https://primeott.sytes.net/live/prime/tv/cc35fb09e91a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Ten [Server 1]
+https://primeott.sytes.net/live/prime/tv/93a9e40067f2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Toon [Server 1]
+https://primeott.sytes.net/live/prime/tv/61c63e74e5df.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Variety+ [Server 1]
+https://primeott.sytes.net/live/prime/tv/93dad1d3e217.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Zoom [Server 1]
+https://primeott.sytes.net/live/prime/tv/af22f91f74d3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Iraq HD [Server 1]
+https://primeott.sytes.net/live/prime/tv/e45ee3176171.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Masr [Server 1]
+https://primeott.sytes.net/live/prime/tv/eb7ef82a9993.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_logo.svg/200px-MBC_logo.svg.png" group-title="MBC Group",MBC Masr 2 [Server 1]
+https://primeott.sytes.net/live/prime/tv/99b6e01fe331.m3u8
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN GROUP",ALWAN SPORT 1 HD [Server 1]
 http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGS3FNRncrNVk4bXNoMUtua2lFMXVkd3dKSC9yVXVaL2d6WFI0K0FLc1lCdQ
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN GROUP",ALWAN SPORT 2 HD [Server 1]
@@ -131,6 +201,262 @@ http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTVdOT3NMdkpvbGRZeUZWOWVNaHV4Nkl
 http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQWdnZ2RaazNLNnhLV1o2UVMxM2c5enNvZ1pRNFMzWjVreTNOOFZaUHljbg
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN GROUP",ALWAN WWE 4K [Server 1]
 http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRWFTa015Njh3Sy83UW0vckdwOTBwSW84Ri8xbjZVQ05IdFNTU3ZJbEsycg
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/10048797946.jpg" group-title="STARZPLAY",AD SPORTS 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/242233.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/24073068010.jpg" group-title="STARZPLAY",AD SPORTS 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/242232.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_37168v1sv2.png" group-title="STARZPLAY",AD SPORTS EXTRA HD [Server 1]
+http://13.140.138.243:85/prime/local/83468.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175598184783471.png" group-title="STARZPLAY",STARZPLAY SPORTS 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/124566.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175598184788242.png" group-title="STARZPLAY",STARZPLAY SPORTS 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/124565.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/56489552130.jpg" group-title="STARZPLAY",STARZPLAY SPORTS 3 HD [Server 1]
+http://13.140.138.243:85/prime/local/247647.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175598184783471.png" group-title="STARZPLAY",STARZPLAY SPORTS 1 4K [Server 1]
+http://13.140.138.243:85/prime/local/203554.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175598184788242.png" group-title="STARZPLAY",STARZPLAY SPORTS 2 4K [Server 1]
+http://13.140.138.243:85/prime/local/203553.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/37056833789.jpg" group-title="STARZPLAY",STARZPLAY SPORTS 3 4K [Server 1]
+http://13.140.138.243:85/prime/local/284265.ts
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="STARZPLAY",SHASHA 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/322595.ts
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png" group-title="STARZPLAY",SHASHA 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/322604.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 1 4K [Server 1]
+http://13.140.138.243:85/prime/local/284268.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 2 4K [Server 1]
+http://13.140.138.243:85/prime/local/284301.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 3 HD [Server 1]
+http://13.140.138.243:85/prime/local/284283.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 4 HD [Server 1]
+http://13.140.138.243:85/prime/local/284286.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 5 HD [Server 1]
+http://13.140.138.243:85/prime/local/284289.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 6 HD [Server 1]
+http://13.140.138.243:85/prime/local/284292.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 7 HD [Server 1]
+http://13.140.138.243:85/prime/local/284529.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz/images/channels_image/95215579609.jpg" group-title="STARZPLAY",SHAHID 8 HD [Server 1]
+http://13.140.138.243:85/prime/local/284532.ts
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3716kbj9r1.png" group-title="STARZPLAY",YAS EXTRA HD [Server 1]
+http://13.140.138.243:85/prime/local/83467.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/85467268583.jpg" group-title="STARZPLAY",Alkass SHOOF 1 [Server 1]
+http://13.140.138.243:85/prime/local/402607.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/27460760432.jpg" group-title="STARZPLAY",Alkass SHOOF 2 [Server 1]
+http://13.140.138.243:85/prime/local/402610.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/72970634298.jpg" group-title="STARZPLAY",AL KASS 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/257037.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/37627855791.jpg" group-title="STARZPLAY",AL KASS 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/257040.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/51141557290.jpg" group-title="STARZPLAY",AL KASS 3 HD [Server 1]
+http://13.140.138.243:85/prime/local/257043.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/45919099508.jpg" group-title="STARZPLAY",AL KASS 4 HD [Server 1]
+http://13.140.138.243:85/prime/local/257046.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/16687545896.jpg" group-title="STARZPLAY",AL KASS 5 HD [Server 1]
+http://13.140.138.243:85/prime/local/257049.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="STARZPLAY",AL KASS 6 HD [Server 1]
+http://13.140.138.243:85/prime/local/257052.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="STARZPLAY",AL KASS 7 HD [Server 1]
+http://13.140.138.243:85/prime/local/257055.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="STARZPLAY",AL KASS 8 HD [Server 1]
+http://13.140.138.243:85/prime/local/257058.ts
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/36522434911.jpg" group-title="STARZPLAY",AL KASS 9 HD [Server 1]
+http://13.140.138.243:85/prime/local/257061.ts
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/84401811846.jpg" group-title="STARZPLAY",AL KASS 10 HD [Server 1]
+http://13.140.138.243:85/prime/local/257064.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Action 1 [Server 1]
+http://13.140.138.243:85/prime/local/135370.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Action 2 [Server 1]
+http://13.140.138.243:85/prime/local/135369.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Arabic [Server 1]
+http://13.140.138.243:85/prime/local/135360.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Drama [Server 1]
+http://13.140.138.243:85/prime/local/135367.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix English [Server 1]
+http://13.140.138.243:85/prime/local/135361.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix France [Server 1]
+http://13.140.138.243:85/prime/local/135363.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Horror [Server 1]
+http://13.140.138.243:85/prime/local/135371.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Indian [Server 1]
+http://13.140.138.243:85/prime/local/135366.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjZPZhSJ/netflix-mobile-application-logo-free-png.png" group-title="NETFLIX TV",Netflix Kids [Server 1]
+http://13.140.138.243:85/prime/local/135368.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CH SPORTS",UFC EVENT [Server 1]
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CH SPORTS",UFC EVENT [Server 2]
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/23.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CH SPORTS",WWE EVENT [Server 1]
+g
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjHMXlgS7Jm0Pu0-Pwa9Mw9ymReDudlgXIudy3QwHaohdv0Nc18eacXws-j71aUzBM.png" group-title="OSN TV",OSN Action FHD [Server 1]
+http://13.140.138.243:85/prime/local/130302.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhi_lSA1fUy47_gNYE1lD1O1FXPlzPY_cIkk3UCWXZkx7pCRgeGUavw7lc33qaCIQqYV_qYVadbM2w84L67rQIbRf7SuCaqxC-RfKYb2le3zA.jpg" group-title="OSN TV",OSN Alfa Al Fann FHD [Server 1]
+http://13.140.138.243:85/prime/local/130301.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhi_lSA1fUy47_gNYE1lD1O1FXPlzPY_cIkk3UCWXZkx7pCRgeGUavw7lc33qaCIQo1GVWlXRVluEsCr1ThP2WT6qxLy3DBf_oK4D8_wEVZzA.jpg" group-title="OSN TV",OSN Alfa Al Safwa FHD [Server 1]
+http://13.140.138.243:85/prime/local/130300.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhi_lSA1fUy47_gNYE1lD1O1FXPlzPY_cIkk3UCWXZkx7pCRgeGUavw7lc33qaCIQqV36oLgCNpI92Rj_s_g4KS1BYSDV9ms3vunFGkL9EZcQ.jpg" group-title="OSN TV",OSN Alfa Alyoum FHD [Server 1]
+http://13.140.138.243:85/prime/local/130299.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhzHA5Vp6ue2zVqVoxAML2AMhLdueXklwolYsT0l6hbe1z4hsSu6eInOV5Vqd7ZI81MK7PvnFAJftFy-xZvCU5WsftJpmDRWXqL96ZJNkCI-1JeOGSnrWoRIha1ptgDSN9m_0STY-Moh_1-by49yekL.png" group-title="OSN TV",OSN Alfa Cinema 1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130298.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhi_lSA1fUy47_gNYE1lD1O1FXPlzPY_cIkk3UCWXZkx7pCRgeGUavw7lc33qaCIQr-mzwmGJVoijjEpALMt2AspegbBugnXvFJOpXO2lMQxg.jpg" group-title="OSN TV",OSN Alfa Cinema 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130297.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",OSN Alfa Musalsalat +2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130296.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAwFBMVEX///8AAAD/ANr/ANj/ANz/xPTq6uqpqamEhIRDQ0MbGxuysrIVFRU+Pj7/q+37+/v/KODh4eHT09Pz8/O7u7tSUlJzc3OYmJghISHn5+ehoaEODg5sbGxbW1tJSUmLi4vJyck2NjYpKSl7e3tkZGS4uLj/1/jZ2dnExMTOzs6IiIgwMDD/puz/5fr/6/z/3vv/u/P+ken+YeH/VuD8iOf+dun98vz+yPT+Ntz/svL9SOD/mOv+vfP+beT/qfD5we6mp22OAAAHIUlEQVR4nO2baVfiMBiFKWVEh9EqqKCiguA2Ou77jDP//18NFZrmZoGWQ0vac58vHmkbcpvk3RIqFUIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEIBsx17+W3ZlM8Gsxf5bdmUyYiKtWq7Xqt2V3JhNCdaVX6PvVL4U+FRaTUGF1THkVVkuu8MvGUGGRiScpFRYVKiw+VFh8qLD4UGHxKaHC4Ob27Ozs9iYY/1sqhb/u7h/eqv6Y0d/Nx6f3s2q1JApvNj5HEnyRSPjh2IVKayVRGIhEXsaf1C+mKHy5fs6/t3PxYBCoCf4bwDMvr/dvo0F+WVKXU/JuGkON2ubD0/X73d3d+/XTw+ZogMMR3lh235PxkkhhOJDj5Rn/W/tYdt8T8pZQoT6ufkG2M37Pq7Dq/15235NxO7/Ct2X3XaZ5ab1Um63FJvE2RwXTafS9HevFZ+h1Kr1POWqYQuvYC2nZrv+JrWlY5/aTGteQPHVYaXtj6rYbgq+o7e3z6e+319fXfxv3zx9JZfpneSoxs+1F2Kfpx+P1GQYtlZt/T0k0+p8Zd38mKztejHWampmqLIzL/erj3bIDt4YnY52mZmpTbM4ottl8/rNseZVKFwR6a+melhU+f36MdX2tz7fP36/LVzcyoX1PYSXV83KO/zr6P3j5FXITzHwyJ/ZUfZ63n6oB16sYW7pAbz1VC44rNAn0vK00TbitcMUocDXVQnRaYfBdl9dJ6SzcVrij6TtopG7EZYXHmsDjOVpxWOGlqu/kfJ5mHFaoLsLufM3kp/C8Ptg5OfC8H+vDdi9B9LyqCGzj5aBZHxyun3Q6Vzu7+80pAUpOCi92D7C/h9sznlA9IZjQVl01QsMLW0N5KGy1FXmTQZkaGR7ZBe7tmpo7sARzOShsm/qjjwtyYZ2iwcDa3qmppcwVnnesHRpFmHu2x/pw32584cLY0IRDw7TIWuH+tA7ZXnul0oObruILuo9EdIeSsULjigHMThxXYRxpD2e2p72ybBV2Z3YIZqAADWm8CA8TtKcu7kwVqi7NzKr+IBiTE/FxkhfmeUromqXCxuzeGN96pQKXhaezG2WkmZdCQ/3BgprRgr0UGX0zcXtgUTNUqOc+NtSyBMxGEfz8SNweLO3NmNpiFW5rX7x+fHrZ7DWO17UrytKRL3WiD3U/cdTebp73GgPd4zbVzmTCifKt3XgubqlO5ACeBGcYxWItVcUgjhYu1emSsqQ6H+oQ4mtV1xQMIpjglulDLVc8Vdqz7zIujjX4xo6aLrVwavXla/LoH04+C1CBtj2jpCLDrGRZv1HPB5UymmROYT5GIQp6nr7WXOV81hcuGvRdPcMdGEK3LReinmI0YyonYgRsiXcXCNhLc/0BYkzJYRwbPsZJ2ja2dyXfYooFFwpaPnONGidy7KVlwxjF5U3LvTIw9h3jLQsEDP6R5SZIIGJbK38aRWz1JOMDbyHdBlV6YFHY9orgJhGcggmKfB74CluJB7xs1k5/NcmXwdQTeSKUSaMPwdDYhgfsbfrieDqGSXoEi1VYI7mfwv70TbJV4N2k22RMz06SHoGBjFw7mFIhWw4CrEYEkpl5NgDSICs8sN4l90iYo6Gpm3IEZHD3Y2AF/1yYFjMwhra6KIyhUCiHe8L8uKcQ1qEtgoJ1KGapnAaK9F7ew7BucoNCQ21koUChxbZlBC4/WnIgW4QK7imEsNRmuCHliZYcRNBifrunELJD27YYeOjoNcjOIq6yyVPXDYVYhbKYGrgnmpDy/I5fjXsKsfdm7wuxpnCaV8bnHFSIxVvTIGJCFCXl0Mu4FuGgQiycmFYibkEYc/nYzTioUKmr6DmrUhyMRlkOsSUpskJrIS1fhequkxom/sTLUX9almdcVKjuwx/Jm6Eryh62SD/A+vTiB1xUqG8UdSPD0dR2FQfRQ335U8k+OanQdOpurbvbVYcvJDIpkBPLNU8nFc7c4I4RKQSk8nKxwk2FiTefRFqBVV3ZiTqqMJh2DCPmu5ACExgqanLk7ZBCywFYFWFkMUqAnMtVhYkkihwQgwSMXJxVWGlBqd1AJy7EmcO4Me4qnHV+QvIImGooBTWXFRp2u2Mkh6DsmSp1AacVVgIlBhXI4bhycEOticrXktXaBra7MsF0/LJfl/2dapLU06KnjRjrydTWfj2ml4mSKTThBMbhPh5KVMN0+28MnSbY6p02TrcvzrV9jJ4i0LMeyiwo2mmurHdVcmZPSzYKOkctBIYjsc78MnAR1HV91k2AArJiPE4562cKBcJ8/LRMVsZ4/tR8VKaorJVdoMHMZH2AIm+0I6P5HHzNEyxVHWV/njB3wJqWyYgKpGl6VLZge0JUAf5eIjePTCocaX+AXiDCAuJV2VwEMtwtn4cghBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQsgU/gNdqWMXSaWM9wAAAABJRU5ErkJggg==" group-title="OSN TV",OSN Alfa Musalsalat FHD [Server 1]
+http://13.140.138.243:85/prime/local/130295.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKg99gKagTGw0Crt2_gy5qTmAzWVXcWVBBRL7S1ZqH6raJI-sIC78kD7WAhGDXafXu86zL9-NjWzv8OUPGvJbf-aW9fVI0RRuvh6V4JlljqvbBZDYBU5Ey-qrsqGA8xcuuIJT-xfn_Kxk7dMlz_T-ieLTqimTKyyaloH4z3FbrWiaQ.png" group-title="OSN TV",OSN Alfa Music Now FHD [Server 1]
+http://13.140.138.243:85/prime/local/130294.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgYklwqqkxtdpl-1tUOS6ya8ys8hxI-7OTv8ti83MDBhp3xUTHZFTKCvPgwSzoA6onuUcE9kiLZIE8w_7v8roFgIFrMQfRWFHP_V-92ZprLUSQ.png" group-title="OSN TV",OSN Art Aflam 1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130293.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgZ-JlJd02VfXF1hTru4sPSeIwyM9WcGHPm01WdyN3LMTozrSLTTJMZM8lbJJfe-Eu_sQHbUst4VbVTlQMDtPpM_HjMEXG-g2IOGsm_XvcPQDw.png" group-title="OSN TV",OSN Art Aflam 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130292.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhi_lSA1fUy47_gNYE1lD1O1FXPlzPY_cIkk3UCWXZkx7pCRgeGUavw7lc33qaCIQphPxhtJaPeVhWIV0EyYOdFfFmTI5P1nXswl9Hl-WXN5w.jpg" group-title="OSN TV",OSN Art Cinema FHD [Server 1]
+http://13.140.138.243:85/prime/local/130291.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgoDgfpZ5DAYpGF_RVzVO9Vf8WUtxvf3IVQ&usqp=CAU" group-title="OSN TV",OSN Art Hekayat 1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130290.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgbbmS6FjIG64IOGrXo-WGYP4iOFyoYlOBoDqOxbGKyxIRUNusxSV5RLzQCtENDSDAoxLRWiqu-1d46ZEhA3xq8SmAdmj3d2yP5vNVptZjiwbQ.png" group-title="OSN TV",OSN Art Hekayat 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130289.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKixX3eQxmncW444LzuBZmtt_GHJJRSyA9gY1ccGEF1UKAg_Bj-ReXeD0oFswl68HdLU1CoYiLkL1kBUeliRGXd3Awg0gOqOKCNCfjs5O61rgp5rOEfTgQ5fmpGzLNc9f0P08RkmyG0qPnXJK1WF-lZT.png" group-title="OSN TV",OSN Baby FHD [Server 1]
+http://13.140.138.243:85/prime/local/130288.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjnbf7UHK0aXWPyfCGtYxbD7fsPsxcNrrCdKvpy9pATWNLtKgEw1Ewkjt4NzTR3RcI.png" group-title="OSN TV",OSN Comedy FHD [Server 1]
+http://13.140.138.243:85/prime/local/130287.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5Qgbx0WQcQxDf3nR4xeL-VkDju2AOEpTDSknCpgIO3TuCWC6ZcOs0sZ8bnnPxsiXRkAXXA1MIMhXUavBAZMVOVcis-44FT89meoll2QrKOp1cSg.png" group-title="OSN TV",OSN Discovery FHD [Server 1]
+http://13.140.138.243:85/prime/local/130285.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/zY3rjDfZqJZ3i8cJfTls5B6r634Tb3GrD_aKESZN1jaCoA0cMF9Q888pQCGcuJoiTmsh6vGNJi_xDYqWv62ofw.png" group-title="OSN TV",OSN Discovery IDX FHD [Server 1]
+http://13.140.138.243:85/prime/local/130284.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgZmbGE21HkYBSPZ3-_uHvewETk_mg9iXpeacQVawb0BaZM0ltxFnu8DX-dj25PcA65XQX-YmU6TEoWDskjTTTrrys9iuavOytQAkb6MwVKDyg.png" group-title="OSN TV",OSN Discovery Science [Server 1]
+http://13.140.138.243:85/prime/local/130283.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/ZfX0J3cLHUd98n2ss74NVQrOcMPh7AyuvlDWnaGvnddUdFXOZb-zbKqtCg0UUw2Luve1rhu0hsVoWrbWtEJt9g.png" group-title="OSN TV",OSN Disney FHD [Server 1]
+http://13.140.138.243:85/prime/local/130282.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/g-dotYH9xINHixEP8X_eCwsVWsutj2PpoAilEcjQlxE_MqGY0H7VGStSh395rhRvbzv6BzpnahIu7afZjUlDqQ.png" group-title="OSN TV",OSN Disney Junior FHD [Server 1]
+http://13.140.138.243:85/prime/local/130281.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgYdxHJG8bKD7MGU1znT2YA610tGnPuU4k5QaYi_F6XMpggRERi934LLj2gNmM-lFfq2-S7kzCKGko8fAVDbkUJe9CEWKqjzbo5Cq9D_vt9MWw.png" group-title="OSN TV",OSN E! FHD [Server 1]
+http://13.140.138.243:85/prime/local/130280.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiAyLIPojqt4E6cXgbmwzCDg1bO3KAqju9Q_nvIWKz2uugCKGkAWCyiqF2dTi3wy4g.png" group-title="OSN TV",OSN Enigma [Server 1]
+http://13.140.138.243:85/prime/local/130279.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgbQYsIEGV8JM1l5Fc--7v-q5Vl7J852hiBe2bzhmA_85NSpM3-eOlBTuKi0ELGN6daNUcVi1NWlr8nN_86VdTyf1cOtOQqsJoh5S56hi5YxQg.png" group-title="OSN TV",OSN History 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130278.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5Qga66WRA0tJXPmB0nHpGdXnlTM15b8BgmbzdauktysKkczPyOi9Ch7PwjFIlvuZaN_EwpFu7HyEy_wc5qY7j8QYNF1q1WfMYp53mLSlAWdMHfQ.png" group-title="OSN TV",OSN History FHD [Server 1]
+http://13.140.138.243:85/prime/local/130277.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z887QE2mYFlrqM6ueDQDOYvJerTBFgDcJmcYvMTh9cFizvB3ma0Pj9i8yFBuOIwOCjk.png" group-title="OSN TV",OSN Kids Zone FHD [Server 1]
+http://13.140.138.243:85/prime/local/130276.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/4bv4i5atndbbSfNbaV6Xwa2lI4fOH5mplEf-KGPO7DTFfQdFbHEWQ_RHHlllMVkdrKcWlRRTNszDKyN52Wkfxn1xfUZ1KYpSciO6sJmp4w8.png" group-title="OSN TV",OSN NOW FHD [Server 1]
+http://13.140.138.243:85/prime/local/130275.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjaDylwK83-Ocm_ZS-brlgTolMY3cvhfUshi8TsT_5jwRc_cGJrZAs8XqyT42t5zoU.png" group-title="OSN TV",OSN MEEZE [Server 1]
+http://13.140.138.243:85/prime/local/130274.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/bnr5i1zJ7tSxmOQ8wnktllyjMt97QeAezMB211u9wuk5m4pBWLB7Dh8pHGjzy3rt.png" group-title="OSN TV",OSN Movies First  +2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/130272.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8_1jiQDu-l1bSkfYjE-gJTtP7-IEvNFViaTn_YE2doLC7v60hkl_RFl4ERxScn9aGM.png" group-title="OSN TV",OSN Movies First FHD [Server 1]
+http://13.140.138.243:85/prime/local/130271.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/bnr5i1zJ7tSxmOQ8wnktllyjMt97QeAezMB211u9wumHYY5XLLYd57MFFYUgRNbT.png" group-title="OSN TV",OSN Movies Premier FHD [Server 1]
+http://13.140.138.243:85/prime/local/130273.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjeby3_9TI-CQQnDP35TROv9eQx2u7iC-qeYFsk7PS_ItF5-Geb6q8BliUXaXCo4nEmI5u7mWrq3FSbx6kBVTJnJX0Yjmyo6b6DSeUePwwIXT_BU0O6_v-XizM11bGZOpHaQmKO4lkmp8gC4-4IGH6X.png" group-title="OSN TV",OSN Nat Geo People [Server 1]
+http://13.140.138.243:85/prime/local/130270.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjeby3_9TI-CQQnDP35TROv9eQx2u7iC-qeYFsk7PS_ItF5-Geb6q8BliUXaXCo4nH9hT9HUqdxKnFHX1-p6N_AAxVhu7P9YXYpmyy65KJ84tr9VMj_N0dXifb6NbdFY0qGjA21wIipyyL6W7mdhPsO.png" group-title="OSN TV",OSN Nat Geo Wild [Server 1]
+http://13.140.138.243:85/prime/local/130269.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/4bv4i5atndbbSfNbaV6XwWv0wA6PmMJf0P7fAJed_g06S3Ao9E0BU5Xa224AjgwpNEGC5g-OIAwWMj1DdPUyEQyUiauy_shFt1U7SDLFegc.png" group-title="OSN TV",OSN National Geographic FHD [Server 1]
+http://13.140.138.243:85/prime/local/130268.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUPmGMKv7KiRekLhJatFbc1mXpojvS-xeMdmTvH9YDGOt3nAPxvnbKuH75YyQBR6PI.png" group-title="OSN TV",OSN National Geographic People FHD [Server 1]
+http://13.140.138.243:85/prime/local/130267.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgbTMOVEyKNZVdq97hPTb_-FwS9d8RUoK7BJjZe9geGzp-EXWd_iPqjPnZh73EEha9jKZ_1sfd9rS4zQhmH4dYp0D_vjC0XDTSrO3tbSVT8WiQ.png" group-title="OSN TV",OSN Nick Jr FHD [Server 1]
+http://13.140.138.243:85/prime/local/130265.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-s39GgEXK5XkzDRkZ25Rj5AtYnEIgRz27xbwUCR_PlD-xERgeSCumuv3_iL0j2Kg0.png" group-title="OSN TV",OSN Nickelodeon FHD [Server 1]
+http://13.140.138.243:85/prime/local/130264.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z88arOQ9InljZfbMbHldY6qdvuUJaJpt7Pv8m2ZNcjepYEoNhmLSr6g_wgx_vtxQmMw.png" group-title="OSN TV",OSN NickToon FHD [Server 1]
+http://13.140.138.243:85/prime/local/130263.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjJ_xh0nZ_MX8ceUNMospcUNljP9u9cKvcCkIF8_h7r9mv_46SpLjjxqk7d1vN5QgaDXWxVtLwm7M_HWd9dR0u_5TKhHMTckfwLAIw5ghJ_9LZD0DQpL5GSvugbjMA4VSobihR_lo-8r5Qpc9AVmGzQVqz5oSqlHRDRjHXwskoG7Q.png" group-title="OSN TV",OSN Star Movies FHD [Server 1]
+http://13.140.138.243:85/prime/local/130258.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhzHA5Vp6ue2zVqVoxAML2AMhLdueXklwolYsT0l6hbe1z4hsSu6eInOV5Vqd7ZI83MyuqqEi4wshsys1HBCbB9cgfABzQxLd5AYJf5OTJtgMfcFm5ij4Ek9zfspUhM5NFaQvTQTbDv2RSqhvGLVi_e.png" group-title="OSN TV",OSN Star Action FHD [Server 1]
+http://13.140.138.243:85/prime/local/130257.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/g-dotYH9xINHixEP8X_eCwsVWsutj2PpoAilEcjQlxFae2odJ-slzvSimOuIKO6P.png" group-title="OSN TV",OSN TLC [Server 1]
+http://13.140.138.243:85/prime/local/130256.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/4bv4i5atndbbSfNbaV6XwWKXKi3pVNClc7Oa0yFhMgsXA_FlkbbWitqGkxqRWfXwYZ0PqMBXRrFFwWDi2e1DJ9M8gY4v_NxbxQOQxGBT3IE.png" group-title="OSN TV",OSN Yahala FHD [Server 1]
+http://13.140.138.243:85/prime/local/130253.ts
+#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/fxX0SPPPLvvHYcfv-ogiWoxroIrlr_dzDwrdYkOxJfvWsXhYMlkbXmvIZj2hLpZMp6AObN3DJ6ZAnrWbhh18Xg.png" group-title="OSN TV",OSN Yahala Oula FHD [Server 1]
+http://13.140.138.243:85/prime/local/130252.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",|ARB.OSN| ALFA Al FANN HD [Server 1]
+http://13.140.138.243:85/prime/local/217721.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",|ARB.OSN| ALFA ALYOUM HD [Server 1]
+http://13.140.138.243:85/prime/local/217720.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",|ARB.OSN| ALFA CINEMA 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/217719.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",|ARB.OSN| ALFA CINEMA 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/217718.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",|ARB.OSN| ALFA MUSALSALAT +2 HD [Server 1]
+http://13.140.138.243:85/prime/local/217717.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="OSN TV",|ARB.OSN| ALFA MUSALSALAT HD [Server 1]
+http://13.140.138.243:85/prime/local/217716.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAwFBMVEX///8AAAD/ANr/ANj/ANz/xPTq6uqpqamEhIRDQ0MbGxuysrIVFRU+Pj7/q+37+/v/KODh4eHT09Pz8/O7u7tSUlJzc3OYmJghISHn5+ehoaEODg5sbGxbW1tJSUmLi4vJyck2NjYpKSl7e3tkZGS4uLj/1/jZ2dnExMTOzs6IiIgwMDD/puz/5fr/6/z/3vv/u/P+ken+YeH/VuD8iOf+dun98vz+yPT+Ntz/svL9SOD/mOv+vfP+beT/qfD5we6mp22OAAAHIUlEQVR4nO2baVfiMBiFKWVEh9EqqKCiguA2Ou77jDP//18NFZrmZoGWQ0vac58vHmkbcpvk3RIqFUIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEIBsx17+W3ZlM8Gsxf5bdmUyYiKtWq7Xqt2V3JhNCdaVX6PvVL4U+FRaTUGF1THkVVkuu8MvGUGGRiScpFRYVKiw+VFh8qLD4UGHxKaHC4Ob27Ozs9iYY/1sqhb/u7h/eqv6Y0d/Nx6f3s2q1JApvNj5HEnyRSPjh2IVKayVRGIhEXsaf1C+mKHy5fs6/t3PxYBCoCf4bwDMvr/dvo0F+WVKXU/JuGkON2ubD0/X73d3d+/XTw+ZogMMR3lh235PxkkhhOJDj5Rn/W/tYdt8T8pZQoT6ufkG2M37Pq7Dq/15235NxO7/Ct2X3XaZ5ab1Um63FJvE2RwXTafS9HevFZ+h1Kr1POWqYQuvYC2nZrv+JrWlY5/aTGteQPHVYaXtj6rYbgq+o7e3z6e+319fXfxv3zx9JZfpneSoxs+1F2Kfpx+P1GQYtlZt/T0k0+p8Zd38mKztejHWampmqLIzL/erj3bIDt4YnY52mZmpTbM4ottl8/rNseZVKFwR6a+melhU+f36MdX2tz7fP36/LVzcyoX1PYSXV83KO/zr6P3j5FXITzHwyJ/ZUfZ63n6oB16sYW7pAbz1VC44rNAn0vK00TbitcMUocDXVQnRaYfBdl9dJ6SzcVrij6TtopG7EZYXHmsDjOVpxWOGlqu/kfJ5mHFaoLsLufM3kp/C8Ptg5OfC8H+vDdi9B9LyqCGzj5aBZHxyun3Q6Vzu7+80pAUpOCi92D7C/h9sznlA9IZjQVl01QsMLW0N5KGy1FXmTQZkaGR7ZBe7tmpo7sARzOShsm/qjjwtyYZ2iwcDa3qmppcwVnnesHRpFmHu2x/pw32584cLY0IRDw7TIWuH+tA7ZXnul0oObruILuo9EdIeSsULjigHMThxXYRxpD2e2p72ybBV2Z3YIZqAADWm8CA8TtKcu7kwVqi7NzKr+IBiTE/FxkhfmeUromqXCxuzeGN96pQKXhaezG2WkmZdCQ/3BgprRgr0UGX0zcXtgUTNUqOc+NtSyBMxGEfz8SNweLO3NmNpiFW5rX7x+fHrZ7DWO17UrytKRL3WiD3U/cdTebp73GgPd4zbVzmTCifKt3XgubqlO5ACeBGcYxWItVcUgjhYu1emSsqQ6H+oQ4mtV1xQMIpjglulDLVc8Vdqz7zIujjX4xo6aLrVwavXla/LoH04+C1CBtj2jpCLDrGRZv1HPB5UymmROYT5GIQp6nr7WXOV81hcuGvRdPcMdGEK3LReinmI0YyonYgRsiXcXCNhLc/0BYkzJYRwbPsZJ2ja2dyXfYooFFwpaPnONGidy7KVlwxjF5U3LvTIw9h3jLQsEDP6R5SZIIGJbK38aRWz1JOMDbyHdBlV6YFHY9orgJhGcggmKfB74CluJB7xs1k5/NcmXwdQTeSKUSaMPwdDYhgfsbfrieDqGSXoEi1VYI7mfwv70TbJV4N2k22RMz06SHoGBjFw7mFIhWw4CrEYEkpl5NgDSICs8sN4l90iYo6Gpm3IEZHD3Y2AF/1yYFjMwhra6KIyhUCiHe8L8uKcQ1qEtgoJ1KGapnAaK9F7ew7BucoNCQ21koUChxbZlBC4/WnIgW4QK7imEsNRmuCHliZYcRNBifrunELJD27YYeOjoNcjOIq6yyVPXDYVYhbKYGrgnmpDy/I5fjXsKsfdm7wuxpnCaV8bnHFSIxVvTIGJCFCXl0Mu4FuGgQiycmFYibkEYc/nYzTioUKmr6DmrUhyMRlkOsSUpskJrIS1fhequkxom/sTLUX9almdcVKjuwx/Jm6Eryh62SD/A+vTiB1xUqG8UdSPD0dR2FQfRQ335U8k+OanQdOpurbvbVYcvJDIpkBPLNU8nFc7c4I4RKQSk8nKxwk2FiTefRFqBVV3ZiTqqMJh2DCPmu5ACExgqanLk7ZBCywFYFWFkMUqAnMtVhYkkihwQgwSMXJxVWGlBqd1AJy7EmcO4Me4qnHV+QvIImGooBTWXFRp2u2Mkh6DsmSp1AacVVgIlBhXI4bhycEOticrXktXaBra7MsF0/LJfl/2dapLU06KnjRjrydTWfj2ml4mSKTThBMbhPh5KVMN0+28MnSbY6p02TrcvzrV9jJ4i0LMeyiwo2mmurHdVcmZPSzYKOkctBIYjsc78MnAR1HV91k2AArJiPE4562cKBcJ8/LRMVsZ4/tR8VKaorJVdoMHMZH2AIm+0I6P5HHzNEyxVHWV/njB3wJqWyYgKpGl6VLZge0JUAf5eIjePTCocaX+AXiDCAuJV2VwEMtwtn4cghBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQsgU/gNdqWMXSaWM9wAAAABJRU5ErkJggg==" group-title="OSN TV",|ARB.OSN| ALFA MUSIC NOW HD [Server 1]
+http://13.140.138.243:85/prime/local/217715.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID AFLAM [Server 1]
+https://blc2cr.linkip.org/live/90088_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID AFLAM [Server 2]
+https://stm.linkip.org/live/889_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID HINDI [Server 1]
+https://blc2cr.linkip.org/live/90089_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID Masrah1 [Server 1]
+https://blc2cr.linkip.org/live/90075_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID Masrah2 [Server 1]
+https://blc2cr.linkip.org/live/90076_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID Masrah3 [Server 1]
+https://blc2cr.linkip.org/live/90077_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID Masrah4 [Server 1]
+https://blc2cr.linkip.org/live/90078_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID Masrah5 [Server 1]
+https://blc2cr.linkip.org/live/90079_.m3u8?play=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID AFLAM1 [Server 1]
+https://stm.linkip.org/live/931_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID AFLAM2 [Server 1]
+https://stm.linkip.org/live/930_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID CENIMA [Server 1]
+https://stm.linkip.org/live/929_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID CENIMA [Server 2]
+https://stm.linkip.org/live/887_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID ACTION [Server 1]
+https://stm.linkip.org/live/927_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID RO3B [Server 1]
+https://stm.linkip.org/live/926_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID HORROR [Server 1]
+https://stm.linkip.org/live/888_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID ZAMAN [Server 1]
+https://stm.linkip.org/live/928_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID CLIP [Server 1]
+https://stm.linkip.org/live/925_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID CARTOON [Server 1]
+https://stm.linkip.org/live/924_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID PRIME [Server 1]
+https://stm.linkip.org/live/892_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID MOVIE [Server 1]
+https://stm.linkip.org/live/893_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID WAR [Server 1]
+https://stm.linkip.org/live/891_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM19dbD3/13285aa392da67ad7e86dc561e41756f-icon.png" group-title="SHAHID VIP",SHAHID JUNIOR [Server 1]
+https://stm.linkip.org/live/890_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA CINEMA [Server 1]
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA CINEMA MASR [Server 1]
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA COMEDY [Server 1]
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA CLASSICAL [Server 1]
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA DRAMA [Server 1]
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA KHALEEJIYA [Server 1]
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8|User-Agent=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA LBC [Server 1]
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA CLIP [Server 1]
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA MUSIC [Server 1]
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA RISALA [Server 1]
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA AFLAM + [Server 1]
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo|Referer=https://rotana.net/
+#EXTINF:-1 tvg-logo="" group-title="ROTANA GROUP",ROTANA KIDS [Server 1]
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo|Referer=https://rotana.net/
 #EXTINF:-1 tvg-logo="https://tayaara.store/live/tod/3.jpg" group-title="TOD TV",TOD ARABIC 1 [Server 1]
 http://marveliptv.life/live/45889034495/2804345120/259240.m3u8
 #EXTINF:-1 tvg-logo="https://tayaara.store/live/tod/4.jpg" group-title="TOD TV",TOD ARABIC 2 [Server 1]
@@ -165,6 +491,294 @@ http://marveliptv.life/live/45889034495/2804345120/259226.m3u8
 http://marveliptv.life/live/45889034495/2804345120/235009.m3u8
 #EXTINF:-1 tvg-logo="https://tayaara.store/live/int/2.jpg" group-title="TOD TV",TOD MOVIES KIDS [Server 4]
 http://marveliptv.life/live/45889034495/2804345120/235009.t
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/17165227770.jpg" group-title="NEWS TV",AL JAZEERA FHD [Server 1]
+http://13.140.138.243:85/prime/local/43637.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/42035583183.jpg" group-title="NEWS TV",AL JAZEERA Mubasher FHD [Server 1]
+http://13.140.138.243:85/prime/local/43639.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/35570144876.jpg" group-title="NEWS TV",AL JAZEERA English [Server 1]
+http://13.140.138.243:85/prime/local/43638.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/63738648667.jpg" group-title="NEWS TV",Alarabiya HD [Server 1]
+http://13.140.138.243:85/prime/local/73636.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/63983141778.jpg" group-title="NEWS TV",Al Arabiya Al Hadath [Server 1]
+http://13.140.138.243:85/prime/local/43641.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/68501105428.jpg" group-title="NEWS TV",Al Arabiya Business [Server 1]
+http://13.140.138.243:85/prime/local/203251.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/25512325813.jpg" group-title="NEWS TV",AlQahera News [Server 1]
+http://13.140.138.243:85/prime/local/198377.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/17796514127.jpg" group-title="NEWS TV",DW News [Server 1]
+http://13.140.138.243:85/prime/local/43648.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/49728525090.jpg" group-title="NEWS TV",EXTRA NEWS [Server 1]
+http://13.140.138.243:85/prime/local/43654.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/29390154026.jpg" group-title="NEWS TV",Asharq News [Server 1]
+http://13.140.138.243:85/prime/local/202102.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/85419167489.jpg" group-title="NEWS TV",SKY NEWS ARABIA [Server 1]
+http://13.140.138.243:85/prime/local/43650.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/18151358019.jpg" group-title="NEWS TV",France 24 Arabic [Server 1]
+http://13.140.138.243:85/prime/local/43645.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/26541055951.jpg" group-title="NEWS TV",France 24 Eng [Server 1]
+http://13.140.138.243:85/prime/local/218210.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png/280px-%D8%A7%D9%84%D9%82%D9%86%D8%A7.png" group-title="NEWS TV",i24 NEWS ARABIC FHD [Server 1]
+http://13.140.138.243:85/prime/local/218214.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/77383848827.jpg" group-title="NEWS TV",MSNBC FHD [Server 1]
+http://13.140.138.243:85/prime/local/218217.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/40269438152.jpg" group-title="NEWS TV",Al Araby 1 [Server 1]
+http://13.140.138.243:85/prime/local/43647.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/56217537675.jpg" group-title="NEWS TV",RT ARABIA [Server 1]
+http://13.140.138.243:85/prime/local/43655.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/57096258674.jpg" group-title="NEWS TV",TRT ARABIC [Server 1]
+http://13.140.138.243:85/prime/local/43652.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png/280px-%D8%A7%D9%84%D9%82%D9%86%D8%A7.png" group-title="NEWS TV",AL EKHBARIA FHD [Server 1]
+http://13.140.138.243:85/prime/local/218212.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png/280px-%D8%A7%D9%84%D9%82%D9%86%D8%A7.png" group-title="NEWS TV",AL EKHBARIA 4K [Server 1]
+http://13.140.138.243:85/prime/local/218213.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/78521219570.jpg" group-title="NEWS TV",Al Hurra [Server 1]
+http://13.140.138.243:85/prime/local/43644.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/65610752254.jpg" group-title="NEWS TV",Al Mayadden News [Server 1]
+http://13.140.138.243:85/prime/local/203245.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/51062096204.jpg" group-title="NEWS TV",Asharq Discovery [Server 1]
+http://13.140.138.243:85/prime/local/202104.m3u8
+#EXTINF:-1 tvg-logo="http://maveniptv.net:80/images/channels_image/92315977845.jpg" group-title="NEWS TV",BBC Arabic HD [Server 1]
+http://13.140.138.243:85/prime/local/43642.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" group-title="NEWS TV",BBC WORLD NEWS [Server 1]
+http://13.140.138.243:85/prime/local/218221.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CNBC_Arabia_Logo_2022.png" group-title="NEWS TV",CNBC ARABIYA [Server 1]
+http://13.140.138.243:85/prime/local/218216.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/280px-CNN.svg.png" group-title="NEWS TV",CNBC WORLD [Server 1]
+http://13.140.138.243:85/prime/local/218218.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/280px-CNN.svg.png" group-title="NEWS TV",CNN [Server 1]
+http://13.140.138.243:85/prime/local/218220.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/280px-CNN.svg.png" group-title="NEWS TV",CNN USA [Server 1]
+http://13.140.138.243:85/prime/local/218219.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="FRANCE TV",BEIN SPORTS 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/204427.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_beIN_SPORTS_2.png/1200px-Logo_beIN_SPORTS_2.png" group-title="FRANCE TV",BEIN SPORTS 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/204426.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="FRANCE TV",BEIN SPORTS 3 HD [Server 1]
+http://13.140.138.243:85/prime/local/204425.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/640px-BET_Logo.svg.png" group-title="FRANCE TV",BET HD [Server 1]
+http://13.140.138.243:85/prime/local/204381.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_%282016%29.png" group-title="FRANCE TV",BFM TV HD [Server 1]
+http://13.140.138.243:85/prime/local/204447.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Boing2016.png/240px-Boing2016.png" group-title="FRANCE TV",BOING FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204337.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="FRANCE TV",BOOMERANG HD [Server 1]
+http://13.140.138.243:85/prime/local/204339.m3u8
+#EXTINF:-1 tvg-logo="http://www.gentv.be/logos/c8.png" group-title="FRANCE TV",C8 HD [Server 1]
+http://13.140.138.243:85/prime/local/204358.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCE TV",CANAL CINEMA FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204479.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Canal_J_logo_2015.png" group-title="FRANCE TV",CANAL J HD [Server 1]
+http://13.140.138.243:85/prime/local/204340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCE TV",CANAL SERIES FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCE TV",CANAL SPORT FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204477.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/240px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE TV",CANAL+ SPORT HD [Server 1]
+http://13.140.138.243:85/prime/local/204399.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Canal%2B_Cin%C3%A9ma_HD_2013.svg/240px-Canal%2B_Cin%C3%A9ma_HD_2013.svg.png" group-title="FRANCE TV",CANAL+ CINEMA HD [Server 1]
+http://13.140.138.243:85/prime/local/204402.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCE TV",CANAL+ FlHD [Server 1]
+http://13.140.138.243:85/prime/local/204480.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1200px-Canal%2B.svg.png" group-title="FRANCE TV",CANAL+ HD [Server 1]
+http://13.140.138.243:85/prime/local/204403.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-240px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE TV",CANAL+ SERIE [Server 1]
+http://13.140.138.243:85/prime/local/204400.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-240px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE TV",CANAL+ SERIES HD [Server 1]
+http://13.140.138.243:85/prime/local/204401.m3u8
+#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/cartoon-network-post1.jpg" group-title="FRANCE TV",CARTOON NETWORK FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204353.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/langfr-2880px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="FRANCE TV",CHASSE ET PECHE HD [Server 1]
+http://13.140.138.243:85/prime/local/204319.m3u8
+#EXTINF:-1 tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/cherie25.png" group-title="FRANCE TV",CHERIE25 HD [Server 1]
+http://13.140.138.243:85/prime/local/204363.m3u8
+#EXTINF:-1 tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-classic.png" group-title="FRANCE TV",CINE CLASSIC HD [Server 1]
+http://13.140.138.243:85/prime/local/204389.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1280px-CinePlusEmotion.svg.png" group-title="FRANCE TV",CINE+ EMOTION HD [Server 1]
+http://13.140.138.243:85/prime/local/204390.m3u8
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/401.png" group-title="FRANCE TV",CINE+ FAMIZ HD [Server 1]
+http://13.140.138.243:85/prime/local/204391.m3u8
+#EXTINF:-1 tvg-logo="https://static.myfree-tivi.com/thumbs/afcec23d92437ec0e5cc1049763bdebf604799c1.png" group-title="FRANCE TV",CINE+ FRISSON HD [Server 1]
+http://13.140.138.243:85/prime/local/204392.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusPremier-1.png" group-title="FRANCE TV",CINE+ PREMIER HD [Server 1]
+http://13.140.138.243:85/prime/local/204393.m3u8
+#EXTINF:-1 tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-classic.png" group-title="FRANCE TV",CINE+ CLASSIC FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204476.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusClub-1.png" group-title="FRANCE TV",CINE+ CLUB FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204475.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1280px-CinePlusEmotion.svg.png" group-title="FRANCE TV",CINE+ EMOTION FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204474.m3u8
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/401.png" group-title="FRANCE TV",CINE+ FAMIZ FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204473.m3u8
+#EXTINF:-1 tvg-logo="https://static.myfree-tivi.com/thumbs/afcec23d92437ec0e5cc1049763bdebf604799c1.png" group-title="FRANCE TV",CINE+ FRISSON FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCE TV",CINE+ POLAR FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204471.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusPremier-1.png" group-title="FRANCE TV",CINE+ PREMIER FIHD [Server 1]
+http://13.140.138.243:85/prime/local/204470.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png" group-title="FRANCE TV",CNEWS FHD [Server 1]
+http://13.140.138.243:85/prime/local/204448.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/1200px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="FRANCE TV",COMEDIE+ FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204379.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="FRANCE TV",CRIME DISTRICT HD [Server 1]
+http://13.140.138.243:85/prime/local/204329.m3u8
+#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/2/09/12/84/20180814/ob_b39c5a_cstar.JPG" group-title="FRANCE TV",CSTAR HD [Server 1]
+http://13.140.138.243:85/prime/local/204357.m3u8
+#EXTINF:-1 tvg-logo="https://corporate.discovery.com/wp-content/uploads/2015/07/logos_DFC_PRIME_FLAT-pos.png" group-title="FRANCE TV",DISCOVERY FAMILY HD [Server 1]
+http://13.140.138.243:85/prime/local/204330.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Discovery_Channel_1995.png" group-title="FRANCE TV",DISCOVERY HD [Server 1]
+http://13.140.138.243:85/prime/local/204327.m3u8
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNjkzNTczNDY1MTcw/id-logo-jpg.jpg" group-title="FRANCE TV",DISCOVERY INVESTIGATION HD [Server 1]
+http://13.140.138.243:85/prime/local/204328.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="FRANCE TV",DISCOVERY SCIENCE HD [Server 1]
+http://13.140.138.243:85/prime/local/204326.m3u8
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/disneychannel/images/d/d2/The_new_Disney_Channel_Logo.jpg" group-title="FRANCE TV",DISNEY CHANNEL HD [Server 1]
+http://13.140.138.243:85/prime/local/204343.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/pocoyoworld/images/7/7b/250px-Disney_Cinemagic.svg.png" group-title="FRANCE TV",DISNEY CINEMA FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204346.m3u8
+#EXTINF:-1 tvg-logo="https://zupimages.net/up/18/15/2ql9.png" group-title="FRANCE TV",DISNEY JUNIOR HD [Server 1]
+http://13.140.138.243:85/prime/local/204335.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/792px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="FRANCE TV",DISNEY XD HD [Server 1]
+http://13.140.138.243:85/prime/local/204342.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/80px-E%21_logo_2012.png" group-title="FRANCE TV",E! HD [Server 1]
+http://13.140.138.243:85/prime/local/204382.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Equidia_Life_2011.gif" group-title="FRANCE TV",EQUIDIA LIFE HD [Server 1]
+http://13.140.138.243:85/prime/local/204407.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/hd-numerique/image/upload/v1441891560/actualite/juin%202015/equidialive.jpg" group-title="FRANCE TV",EQUIDIA LIVE HD [Server 1]
+http://13.140.138.243:85/prime/local/204408.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="FRANCE TV",EUROSPORT 1 [Server 1]
+http://13.140.138.243:85/prime/local/204415.m3u8
+#EXTINF:-1 tvg-logo="https://ornethd.net/wp-content/uploads/2020/05/40000000215.png" group-title="FRANCE TV",EUROSPORT 2 [Server 1]
+http://13.140.138.243:85/prime/local/204414.m3u8
+#EXTINF:-1 tvg-logo="https://extremesportsteobaldo.files.wordpress.com/2016/05/extreme-sports.jpg" group-title="FRANCE TV",EXTREME SPORT HD [Server 1]
+http://13.140.138.243:85/prime/local/204416.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="FRANCE TV",FOOT+ 24/24 [Server 1]
+http://13.140.138.243:85/prime/local/204413.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/langfr-1920px-France_2_2018.svg.png" group-title="FRANCE TV",FRANCE 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204458.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/240px-France_3_2018.svg.png" group-title="FRANCE TV",FRANCE 3 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204455.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/langfr-200px-France_4_2018.svg.png" group-title="FRANCE TV",FRANCE 4 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204454.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/langfr-200px-France_5_2018.svg.png" group-title="FRANCE TV",FRANCE 5 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204452.m3u8
+#EXTINF:-1 tvg-logo="http://www.universfreebox.com/UserFiles/image/Gameone.jpg" group-title="FRANCE TV",GAME ONE HD [Server 1]
+http://13.140.138.243:85/prime/local/204364.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/1280px-Golf%2B.svg.png" group-title="FRANCE TV",GOLF+ HD [Server 1]
+http://13.140.138.243:85/prime/local/204411.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Gulli_2017_nouveau_logo.jpg?uselang=fr" group-title="FRANCE TV",GULLI HD [Server 1]
+http://13.140.138.243:85/prime/local/204333.m3u8
+#EXTINF:-1 tvg-logo="http://tvdirect.t.v.pic.centerblog.net/tv-hd1.png" group-title="FRANCE TV",HD1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204360.m3u8
+#EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-histoire-26858.png" group-title="FRANCE TV",HISTOIRE HD [Server 1]
+http://13.140.138.243:85/prime/local/204315.m3u8
+#EXTINF:-1 tvg-logo="http://www.gentv.be/logos/infosport.png" group-title="FRANCE TV",INFOSPORT+ HD [Server 1]
+http://13.140.138.243:85/prime/local/204410.m3u8
+#EXTINF:-1 tvg-logo="http://www.ariase.com/media/television/logo-132x99/j-one.jpg" group-title="FRANCE TV",J ONE HD [Server 1]
+http://13.140.138.243:85/prime/local/204365.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ac/Logo_Kombat_Sport.png" group-title="FRANCE TV",KOMBAT SPORT [Server 1]
+http://13.140.138.243:85/prime/local/204405.m3u8
+#EXTINF:-1 tvg-logo="http://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE TV",L'EQUIPE 21 HD [Server 1]
+http://13.140.138.243:85/prime/local/204412.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/langfr-300px-M6_2009.svg.png" group-title="FRANCE TV",M6 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204466.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/2880px-M6_Music_2012.png" group-title="FRANCE TV",M6 MUSIC HD [Server 1]
+http://13.140.138.243:85/prime/local/204440.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/langfr-400px-Mangas_%282015%29.svg.png" group-title="FRANCE TV",MANGAS HD [Server 1]
+http://13.140.138.243:85/prime/local/204338.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MCM_logo.svg/640px-MCM_logo.svg.png" group-title="FRANCE TV",MCM HD [Server 1]
+http://13.140.138.243:85/prime/local/204380.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/663px-MCM_Top_Logo.svg.png" group-title="FRANCE TV",MCM TOP HD [Server 1]
+http://13.140.138.243:85/prime/local/204441.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Mezzo_Live_HD.png/240px-Mezzo_Live_HD.png" group-title="FRANCE TV",MEZZO LIVE HD [Server 1]
+http://13.140.138.243:85/prime/local/204442.m3u8
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/54f84f47e4b01ba4126c087c/56d033c44c2f859ac50d5fb6/56d033c44c2f859ac50d5fb5/1435578052474/MTV.png" group-title="FRANCE TV",MTV FRANCE HD [Server 1]
+http://13.140.138.243:85/prime/local/204369.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/220px-National_Geographic_Channel.svg.png" group-title="FRANCE TV",NATIONAL GEO FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204322.m3u8
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png" group-title="FRANCE TV",NATIONAL GEO WILD HD [Server 1]
+http://13.140.138.243:85/prime/local/204321.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/6/62/NICKELODEON_Logo.png" group-title="FRANCE TV",NICKELODEON HD [Server 1]
+http://13.140.138.243:85/prime/local/204348.m3u8
+#EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="FRANCE TV",NICKELODEON JR HD [Server 1]
+http://13.140.138.243:85/prime/local/204349.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/0/0c/20090111145355%21Logo_NRJ_Hits.jpg" group-title="FRANCE TV",NRJ HITS HD [Server 1]
+http://13.140.138.243:85/prime/local/204439.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/01/NRJ_Quebec-500x351.png" group-title="FRANCE TV",NRJ12 HD [Server 1]
+http://13.140.138.243:85/prime/local/204362.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/OCS-G%C3%A9ants.png?fit=1080%2C700&ssl=1" group-title="FRANCE TV",OCS GEANTS HD [Server 1]
+http://13.140.138.243:85/prime/local/204396.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1280px-OCS_Max.svg.png" group-title="FRANCE TV",OCS MAX HD [Server 1]
+http://13.140.138.243:85/prime/local/204397.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png" group-title="FRANCE TV",PARAMOUNT CHANNEL HD [Server 1]
+http://13.140.138.243:85/prime/local/204386.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Paris_Premier.PNG" group-title="FRANCE TV",PARIS PREMIERE HD [Server 1]
+http://13.140.138.243:85/prime/local/204376.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="FRANCE TV",PIWI HD [Server 1]
+http://13.140.138.243:85/prime/local/204341.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="FRANCE TV",PLANETE+ A&E FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204313.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="FRANCE TV",PLANETE+ CI HD [Server 1]
+http://13.140.138.243:85/prime/local/204311.m3u8
+#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/PLANETE+.png" group-title="FRANCE TV",PLANETE+ HD [Server 1]
+http://13.140.138.243:85/prime/local/204310.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="FRANCE TV",RMC DECOUVERTE FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204309.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_news.png" group-title="FRANCE TV",RMC NEWS SPORT HD [Server 1]
+http://13.140.138.243:85/prime/local/204409.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCE TV",RMC SPORT 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/204432.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCE TV",RMC SPORT 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/204431.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE TV",RMC SPORT 3 HD [Server 1]
+http://13.140.138.243:85/prime/local/204430.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCE TV",RMC SPORT 4 HD [Server 1]
+http://13.140.138.243:85/prime/local/204429.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE TV",RMC STORY FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204461.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="FRANCE TV",RTL9 HD [Server 1]
+http://13.140.138.243:85/prime/local/204373.m3u8
+#EXTINF:-1 tvg-logo="http://www.science-et-vie.tv/images/logo.png" group-title="FRANCE TV",SCIENCES & VIE HD [Server 1]
+http://13.140.138.243:85/prime/local/204317.m3u8
+#EXTINF:-1 tvg-logo="https://d2t86ruphax0oa.cloudfront.net/sites/default/files/styles/large/public/field/image/Seasons%20Canada%20logo.png" group-title="FRANCE TV",SEASONS HD [Server 1]
+http://13.140.138.243:85/prime/local/204318.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1280px-Serieclub_%282012%29.svg.png" group-title="FRANCE TV",SERIE CLUB HD [Server 1]
+http://13.140.138.243:85/prime/local/204371.m3u8
+#EXTINF:-1 tvg-logo="https://www.marketingtribune.nl/media/nieuws/2015/11/cultuurzender-brava-lijft-vlaams-kanaal-cultuur-7-in/Brava-TV-logo-400px.jpg" group-title="FRANCE TV",STINGRAY CLASSICA HD [Server 1]
+http://13.140.138.243:85/prime/local/204443.m3u8
+#EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="FRANCE TV",SYFY HD [Server 1]
+http://13.140.138.243:85/prime/local/204377.m3u8
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/UserFiles/image/tcmcinema.jpg" group-title="FRANCE TV",TCM CINEMA HD [Server 1]
+http://13.140.138.243:85/prime/local/204385.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Teletoon_logo.png" group-title="FRANCE TV",TELETOON+ HD [Server 1]
+http://13.140.138.243:85/prime/local/204351.m3u8
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/1air2philou/teva-simple.png" group-title="FRANCE TV",TEVA HD [Server 1]
+http://13.140.138.243:85/prime/local/204372.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/32/Groupe_TF1_logo.png" group-title="FRANCE TV",TF1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204468.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/320px-TFX_logo_2018.svg.png" group-title="FRANCE TV",TFX HD [Server 1]
+http://13.140.138.243:85/prime/local/204450.m3u8
+#EXTINF:-1 tvg-logo="http://www.onkidsandfamily.com/sites/default/files/images/projets/partenaires/TiJi_2012.png" group-title="FRANCE TV",TIJI HD [Server 1]
+http://13.140.138.243:85/prime/local/204334.m3u8
+#EXTINF:-1 tvg-logo="http://www.webmaster-gratuit.com/pict/play-tmc.jpg" group-title="FRANCE TV",TMC HD [Server 1]
+http://13.140.138.243:85/prime/local/204449.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/fictionaltvstations/images/8/8b/800px-Toonami_logo.svg.png" group-title="FRANCE TV",TOONAMI FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204355.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/Toute_l%27Histoire_logo_2011.png" group-title="FRANCE TV",TOUTE L HISTOIRE HD [Server 1]
+http://13.140.138.243:85/prime/local/204316.m3u8
+#EXTINF:-1 tvg-logo="http://reelrock.fr/wp-content/uploads/2016/08/trek25.png" group-title="FRANCE TV",TREK HD [Server 1]
+http://13.140.138.243:85/prime/local/204307.m3u8
+#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F87447cadb3952b11.2Epng/1200x630/crop-from/top/quality/80/tvbreizh.png" group-title="FRANCE TV",TV BREIZH FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204375.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv5monde.com/programmes/bundles/tv5mondesite/images/logo-og.png" group-title="FRANCE TV",TV5 MONDE INFO [Server 1]
+http://13.140.138.243:85/prime/local/204445.m3u8
+#EXTINF:-1 tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/ushuaia.png" group-title="FRANCE TV",USHUAIA TV [Server 1]
+http://13.140.138.243:85/prime/local/204314.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Voyage_logo_2016.png" group-title="FRANCE TV",VIAJAR FHD. [Server 1]
+http://13.140.138.243:85/prime/local/204325.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_W9HD_2011.svg/240px-Logo_W9HD_2011.svg.png" group-title="FRANCE TV",W9 FHD [Server 1]
+http://13.140.138.243:85/prime/local/204464.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WEO-LOGO-HD-100CM-300.png/1200px-WEO-LOGO-HD-100CM-300.png" group-title="FRANCE TV",WEO FHD [Server 1]
+http://13.140.138.243:85/prime/local/204332.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/200px-Flag_of_Algeria.svg.png" group-title="ALGERIA TV",EL BILED TV [Server 1]
 https://primeott.sytes.net/live/prime/tv/08b5ea5bd680.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/200px-Flag_of_Algeria.svg.png" group-title="ALGERIA TV",Algeria 1 [Server 1]
@@ -197,9 +811,631 @@ https://primeott.sytes.net/live/prime/tv/db2fd5d2baf1.m3u8
 https://primeott.sytes.net/live/prime/tv/797062e6338a.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/200px-Flag_of_Algeria.svg.png" group-title="ALGERIA TV",Samira TV [Server 1]
 https://primeott.sytes.net/live/prime/tv/0f7452d7e64b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/200px-Flag_of_Algeria.svg.png" group-title="ALGERIA TV",Samira TV [Server 2]
-g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/200px-Flag_of_Algeria.svg.png" group-title="ALGERIA TV",Samira TV [Server 3]
 http://13.140.138.243:8585/live/bein-tod/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/200px-Flag_of_Algeria.svg.png" group-title="ALGERIA TV",Samira TV [Server 4]
 http://13.140.138.243:8585/live/bein-con-0/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS 1 [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRGR0ZDA3bGRHMzg2d2VPalRhM1hWOTlLSWU5Q05TSXJvM04yVlY2MjRxWg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS 1 FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQjVEQlVwYVAvam9oNnZwamNoOEpnWXZHOTJGUGhrTE9CZWtZVXVHekZycA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS 2 FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSlUwc01vZ0hiRnB4OUN6Nk9UeXlIUDVSZzArc0lxZUl5bnR4b2k4QS9kaQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS 3 FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQVFKcVE0K0NuMkNub01wVUVCTWprOFFiak1OUDk3d3ZwdjBKcWF6MEZ2UA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS 4 FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGT2JIL1FMSHFIMTlPWnBJV0haL1I0Mm5Jc2dCV1ZRQXZYc2RjRGY1WWFWOQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS HABER [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQXNneE41KzM4S0IvV0RkZ1VSN1dLVldBUmFtRTllN0NQOEFETStXanlXaA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS HABER FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRm8wSk1yZFpEbitZcEE3aFZRdlFFUFJnVzkzbFZXbWZ4R1kwN2NvV3dVaA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS MAX 1 [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRXArMisrWEdyWUpDKzFLNFQ0eDBKaENIb2p2YnQ1di9kVGFCWmJubmlZWQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS MAX 1 FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGR3RXYUhBakVDTHJicnJabWZjTXllcXA3Q1JXc3JPSXptenpHSkFORG94OA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS MAX 2 [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSUpUV0NhQm1wNEY4NVlRdEVwNjhjaUQ5bEdNL1hjd1lsWjgrdXF6YXRIOQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="TURKISH TV",BEIN. SPORTS MAX 2 FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQ2ZCcnhBeHh0VytkZHdaSUdPSUg2SDZZYTNVNDZXUXlDdzhxODlkdE1wRw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/65/A_Haber_logosu.png" group-title="TURKISH TV",|TR|  A HABER HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTHk2aVNMMFFTUXJxMVBOM0VKVTlYM25JZW1Pd0hQZnR1RkRudHFvTGprUw
+#EXTINF:-1 tvg-logo="http://www.tv360.com.tr/img/360-logo-footer.png" group-title="TURKISH TV",|TR| 360 TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTHIvL1F4L3NUQ01ZQlBEVURXRnNlZXhrTWxiUi9XWnpaejlWVFdkVjN1Ng
+#EXTINF:-1 tvg-logo="https://seriesturkish.com/uploads/2019/02/2-a2-tv-turkey-2019-youtube-thumbnail.jpg" group-title="TURKISH TV",|TR| A2 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGUGJSaWhnelFhYllNMlVzWkJXYllPOE1UWXk2VnoxbjJoWEV5ZWRkZGFEZg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.svg.png" group-title="TURKISH TV",|TR| ANIMAL PLANET HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGUENsRm1GSWF5cko0eU1oZWE3YVRPYzdlS2V2UmhDVWNPSkpYeFhsNktJZA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/ATV_logo.jpg" group-title="TURKISH TV",|TR| ATV FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTVBzdFcxUlE1akhiUmg5RXRIVjBJV0JlNDVPK2xaS0o1RmdVeDkvNXorVQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/ATV_logo.jpg" group-title="TURKISH TV",|TR| ATV HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQjRtK0VLRm9OakZ2WjlkbU5TQk5TSnZLZGV6MHAvazFONm9NMEhkbWFDKw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/946243529507868672/sCVxQ0OP_400x400.jpg" group-title="TURKISH TV",|TR| BABY TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRkU5NzJvTE5KWWYrVmtrNnlBSjAycFpoOWdUWS9aeWVYWnZnSXVhMjJvag
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg" group-title="TURKISH TV",|TR| BBC EARTH HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRzZBRkwzamlReW5MaXRuS2tITkZLendrMk5TVFdneU45RCtkSkV6emUxaA
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN BOX OFFICE  4 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTmlXS1l6K1h6RW55V1hJNXcxelVjOEZvbm10L3dpbGlWQVdoTXRxeHYvaw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C4vaIqWUoAIAaIH.jpg" group-title="TURKISH TV",|TR| BEIN BOX OFFICE 1 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTTNKemZuWVM5bkdnOFNZZGFBZlVNVTBRa0I3b25VSFJ5STYybU0yT05Dbw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/BeIN_BOX_OFFICE_HD_2_2018_logo.png" group-title="TURKISH TV",|TR| BEIN BOX OFFICE 2 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRG10d0JzUko1TTNBUWowL2xZNnpnRGUzNmVJemV0V1NqbHdvVG5HaWxTdg
+#EXTINF:-1 tvg-logo="http://sd-19828.dedibox.fr/TVTURK/LOGO/LOGO%20SPOR/BeIN_BOX_OFFICE_HD_3.png" group-title="TURKISH TV",|TR| BEIN BOX OFFICE 3 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRmZiWnFzTGF5TnRCendGcHUxeitZcDBmK3ovQTE2dStYb0lzc0VTazlQOA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="TURKISH TV",|TR| BEIN IZ HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGREV1QzRveHVIN2VlWEJ2bjEyOE9ucENIMDRiakdYN29PMDRocGc2cER5YQ
+#EXTINF:-1 tvg-logo="https://media1.digiturkplay.com.tr/images/ChannelMaster/2019328153639.png" group-title="TURKISH TV",|TR| BEIN MOVIE  PREMIERE [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRWZqbFlHZWMyOTlnc05KWTR4RHo1RFpHdnFJbVV1c2lleDhoSURQdVFzeg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN MOVIE TURK [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTlBmZEJZQTE5MnFRNXVrMm96MXF6V0drdVVNbmVUUmQ3ZnBreWVNMEdERw
+#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/beinmoviesaction.png" group-title="TURKISH TV",|TR| BEIN MOVIES ACTION 1 [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSVRCVHhqM3Z3T2NLYW1aZ0FMekhBYkJseHZvc3NuMnB3THpvVjhHQlhmbw
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN MOVIES ACTION 2 [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTHgrSEdnbmNObjZnamNCQ2ZFM1VBWTBoRDVXNWdWTHN5Y0pRWFdDUVAySg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN MOVIES COMEDY [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTkFKSnNkWUVFUE40bzNwYnMzZHdxQnNxdjVTSnVVVDlvVlc0ck9KaFZJYQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_MOVIES_Family-HD.png" group-title="TURKISH TV",|TR| BEIN MOVIES FAMILY HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTHV1ZXB4YVBRY0E4TndVU3doNm80eTFvQmRFZGw0Mm1zeUR1bTVpVEVIMQ
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN MOVIES PREMIER 2 [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSldBamlmTFphcGI4MWhpbU94dXJ1amI4dnV6aG5VbnZMRlA2T3dHbDI3Rg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN MOVIES STARS  HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRFhhbUhJK2Qwd1Q0Z3RBY0pXSWlmUXJKMTMvQjc2ZkdaVHZyVTRpK3RkUA
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN SERIES COMEDY HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRXZ3ZVcyV0RRd1JnUDk5V2ZuQ1I0ZlI1MzQ3YUtnK1Z4RC9ReGRtMjRVUA
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN SERIES DRAMA  HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQUJ1R1R1aHBUQlRpbW9aa3FOVHZ3SDFsZE9aRjFqcmMxSGh0QmpyZ2tqdw
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN SERIES SCI-FI HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGT21XN0ZDdWJGekF2SmlDMThQSWt1c1Y2alZLSzZlM2IrdGk3YmIvU2xZZA
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| BEIN SERIES VICE HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRGZxNmlWV284T2VuZ0xydHhIanUwYkdnREdxNk1YNXFYM3krWDVJci94ZQ
+#EXTINF:-1 tvg-logo="http://vpngenerators.com:25461/@localhdTV/mRR5ykmabp/20042293.tshttp://vpngenerators.com:25461/@localhdTV/mRR5ykmabp/20042293.tshttps://canlitv.rocks/uploads/kanal/23254beyaztv.jpg" group-title="TURKISH TV",|TR| BEYAZ TV FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQ2VIS2tUTFpWV3lRdTRhc3A1enpVRGVTb2lhQ0tLei9nSSthVjFYcjBENg
+#EXTINF:-1 tvg-logo="https://jimbytbs.files.wordpress.com/2018/05/bloomberg-logo1.png" group-title="TURKISH TV",|TR| BLOOMBERG HT HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTGMxMEp0a2UvUnl5aGZBVUVOOVZkQ0paL1kzTkM0MlpabkNtTFVKNi9GVw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="TURKISH TV",|TR| CARTOON NETWORK HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRFVVUGtZRnljRjZuNmRWakYwd1UvbUpBVkhkbThNRFdVaHBRQytXOWtuYw
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| CINESTAR VIZYON 1 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTFViaDNQRnhhSHVieUR2WkRTWFpMT1FkWExoclRoZkNaVGcraml6enVoSA
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| CINESTAR VIZYON 2 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRDlYa0RTbzNhOEMrVHNOZ2JONDhPMGNlMzExUDFFM01zWFZFQnFyRFk4Rw
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| CINESTAR VIZYON 3 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGS2ZuenNYeWx5cTFRc21ndHpoMlljUkNWcXZwT1RGU2pzZmExKzRNY0J5OA
+#EXTINF:-1 tvg-logo="https://ipa.news/wp-content/uploads/2019/04/cnnturk.jpg" group-title="TURKISH TV",|TR| CNN TURK HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSmFGS2s0R3RCdWhlTHF1cVozMkZoOGptZDcyNU5BQi9YUXhBT2NDTHA1Lw
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/270897_logo_da_vinci_learning3.png" group-title="TURKISH TV",|TR| DAVINCI LEARNING [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSmRRL3FucnVoaW81dTlCbHBSSXFxM0E4SHl4cEZmZnlGTFJ1SnhKbDQrbg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| DAVINCI LEARNING. [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRHlDek9FSjk4Vm9CMzN3b2VmM0Q3eGwwTlZ1SVZReFBMcGIyWVlRU0luNw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="TURKISH TV",|TR| DISCOVERY CHANNEL HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRTJIVTdBYlNaR2Z2b0UwSXB6WndieXhRdUJ6eFUrMlV3cmw2TTF6NFZNdA
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="TURKISH TV",|TR| DISCOVERY ID FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTE9Pam8zbUdodE9qamJXbWZiczFnT1NaQ2ttSlpEaHNBSjJMYlBrMStvNA
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="TURKISH TV",|TR| DISCOVERY ID HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTE56Tkhsc1FWcW91Q2tjeDIrUTZtTUx6em51a2ZSR3NZZXJDTVJoY0l4MA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="TURKISH TV",|TR| DISCOVERY SCIENCE [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTzUzaGpHRW5wWkZ0czhaTjlFUWRrMGpHTEpicXkzNEVtQWtFVkZ6eGJMcQ
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/11/Discovery_ShowcaseHD_Exclusive_Black_RGB.png" group-title="TURKISH TV",|TR| DISCOVERY SHOWCASE HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQmV3eE1YRU4xSFFrU21Pb2t5ZHRuL0RybmQwUEhESTBoTUR4V2MrWWZoRw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" group-title="TURKISH TV",|TR| DiSNEY CHANNEL [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGUDd4MVFyWlRmMkJETVlVcm8wQnpEazNrQjc2dFdrUGVQQnczakp0WGg3bQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="TURKISH TV",|TR| DISNEY JR [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSmFnd2plNksyd05jdXBZUUR4VU5rK0lsRVhXQmRFRk5RQVJiMjMyNy9OVg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="TURKISH TV",|TR| DISNEY XD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGREYyeFhmWkhZcUZaMnFrRlBBM2tWOTBCbmx6QXI4UUREWjM1RTdwaDZ3Mw
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| DMAX HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRFdOWDFLY0wrd0tiWGhObFV3Tm55d2dLVzVjU3B5SGhLeS90T1hOTlZLeA
+#EXTINF:-1 tvg-logo="https://www.fadaeyat.co/up/images/39977180784165995885.jpg" group-title="TURKISH TV",|TR| DREAM TURK [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRkl6SUY5L2VNa3lvZ3ZxYVQrNDhCR1o5UlpHSi9hcCtOOVNCRjc1QnIvOA
+#EXTINF:-1 tvg-logo="https://jimtechs.biz/wp-content/uploads/2019/01/Dream-TV-v3.2.6-Full-Mod-APK-jimtechs.biz_.jpg" group-title="TURKISH TV",|TR| DREAM TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTGUzZWtMTU51K3dYaFY4ckhlL0cwYnZudGZoOHF0QUdrbldoYWJaSzEyTg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| FENERBAHCE TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTGhLck8wZkEva1lGVUE5Nk1mcEZEZktGaWZzWVFaOUJMbXh2YUY1dFZSTQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png" group-title="TURKISH TV",|TR| FOX CRIME HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGR21DTHo1dkUybmNQMmx3eGpkbUFHSEpoMnJCWUxPdmlOb3BGaUtxZTc3YQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/langfr-300px-FOX_wordmark-red.svg.png" group-title="TURKISH TV",|TR| FOX FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTWdlMkdXTk0rMU5VdDh3ZkZJUGJCQ1FNYUlUcW9HaGZoN3orUmsyUzBHdQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/langfr-2880px-Fox_life_logo.svg.png" group-title="TURKISH TV",|TR| FOX LIFE HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGREd1L0FvYTd2TDlWWEN5OEpiWFExNzE1YU03cDJTaDY5T2dCeC9TTVlneA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/langfr-300px-FOX_wordmark-red.svg.png" group-title="TURKISH TV",|TR| FOX TV FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQ0RUMXFINXFwZ1BCYkR3TWFUTlF2ZzlUYXZtM0RZNHBnVHprTTNJZUtuUw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="TURKISH TV",|TR| FX HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQWM4ZHRCYWRUd3MxaTlyVCtlYlpzaWgwVmZkSFBtbUlKSmdHKzhtb1Jmbg
+#EXTINF:-1 tvg-logo="https://media.logicielmac.com/download/300x300/productivite/58cd0524-haberturk-tv-hd.jpg" group-title="TURKISH TV",|TR| HABER TURK HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRHlnZkJYRWpnWUF6b1o4cno0WW5GUlVjMGkvY201ckxtdHR4emJwZy92cQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="TURKISH TV",|TR| HALK TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGT24zQVhUVlgzcVdBM2hVcS9oeXZzVGhwWVlvNVNQY2tUZk5RQzVoOHJsdQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/langfr-1920px-History_Logo.svg.png" group-title="TURKISH TV",|TR| HISTORY HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGUFNhNnBBWGZSOVFERVlzRm5sUUZXQW13VCtvWUJ1TEZRTmdybVJZdkpoTg
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="TURKISH TV",|TR| IDX DISCOVERY FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSW9qcytXTy9sdDRlK2lJTkc4VDB4b1Z5VzJLc1BaWkJTdlUyKzJzcmUvSQ
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| JUNIOR TURK [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTmYzQkVXOUd1Nmg3c09tT2pHUGtIZ0swakNRWTZyTytSeTFMMFZ4b1MzTw
+#EXTINF:-1 tvg-logo="http://imgz.star.com.tr/imgsdisk/2019/07/09/090720191750086277039_2.jpg" group-title="TURKISH TV",|TR| KANAL 24 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQVVGUTc1d2JRSzZyS3BaREpqQWp2b3UrY1RqeEVnT3lpc3FmdTl3alJueA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Kanal7_logo.jpg" group-title="TURKISH TV",|TR| KANAL 7 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGUEo2Zk9PMlFHU2w3bVBxNDF1YlNQYnFFM2p4QXpCQ0VDMWcwZWF6T2dkMg
+#EXTINF:-1 tvg-logo="http://www.kanalt.com.tr/images/logo2.png" group-title="TURKISH TV",|TR| KANAL D [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGSENPUk9aeDRkUGYxYUFmNTl6eWRTVkFGa3NWZkxkQVJQajVXR0JXaWltVg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2a/Kanald.gif" group-title="TURKISH TV",|TR| KANAL D FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTitDY1MveTZySjdjLzIzcHA4cW1qNEhVZ01ESU14ZWtuRUtLYU9hRVJSbQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2a/Kanald.gif" group-title="TURKISH TV",|TR| KANAL D HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQWNsandkSWRyUkxCa0xSdW1XMkxYNXY2NzMyZ2ZQMERUSnlrR3RPaTdQbw
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/84.png" group-title="TURKISH TV",|TR| KRAL POP TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRm5WNndPb0FjOWhBK0FVT2YxVEdMRm1ySyttN0RPWnNZSVNKY0NGSUFQMw
+#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/kral-tv_logo.png" group-title="TURKISH TV",|TR| KRAL TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTkVvR0dOSkdFcUI1OUN0cWRCSitxMzZxMG5oUDNWc3B1dnFTRndYb2FPMw
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| LOCA 1 HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGS1ZZQ2JZQStIZWwvQzljWlFtS0N0SnFsWUVBUkxqZmZLL2h4OWI2U3dCTA
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| LOCA AILE [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGUGthS2JaNWN5cHBFa1Z2QmNibFJ1d05sLzZDb2lVN0VDLzd1YnhXSUI3Yg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| LOCA AKSIYON [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRHRWemRpeEUrdDFKYkZrU2RoZ2pnY2pYSkNrcitjaXZvSDhWK25FRHUyRQ
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| LOCA KOMEDI HD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGQ0dDdDNac0V5Uk1KMmZVZHM0NG1xZXBxRG9vaFpnOXg5S3Y3TFpCWGpMSw
+#EXTINF:-1 tvg-logo="http://i.minika.com.tr/cocuk/site/v1/i/imaj_haber.png" group-title="TURKISH TV",|TR| MINIKA COCUK [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTnhRL2wxNXk0dmtmdnE3WjRJeENBaXlJaXJuQUpZbUgxZlk2TGF0Y3Q3cQ
+#EXTINF:-1 tvg-logo="http://i.minika.com.tr/go/site/v1/i/imaj_haber.jpg" group-title="TURKISH TV",|TR| MINIKA GO TV [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGRTk0Y29rcW9NVkZEdTY3N1Y5MzJVQmZNYVNwZC9EeDRKNTJFU055SmI0Wg
+#EXTINF:-1 tvg-logo="" group-title="TURKISH TV",|TR| MOVIE SMART COCUK FHD [Server 1]
+http://mavpro.xyz:80/STRsamNIVmYzRXM3Q3JGZ1B4U3RGTkNTSy9WMkFUcDZTT2cxUDVQRVA0eXlkcWFIak9WK1pQdkRtaTBBd1RhSA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="SPANISH TV",M Liga de Campeones FHD [Server 1]
+http://13.140.138.243:85/prime/local/394667.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="SPANISH TV",M Liga de Campeones 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394674.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/KMGDLTCbN1hnTfPgs3mD6wjO7cEdMt4k4xdcSdz1Nlw00x8H64NFjQyg-ik39D3JTKM3dibi3jNI_n_W9ZZBnQ.png" group-title="SPANISH TV",M Liga de Campeones 4 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394680.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="SPANISH TV",M. LaLiga 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394685.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="SPANISH TV",M. Dazn F1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394697.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="SPANISH TV",M. Golf FHD [Server 1]
+http://13.140.138.243:85/prime/local/394700.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_deportes_1.png" group-title="SPANISH TV",M. Deportes FHD [Server 1]
+http://13.140.138.243:85/prime/local/394701.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="SPANISH TV",M. Deportes 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394703.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="SPANISH TV",M. Deportes 3 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394704.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/kCqQxHoWHFNHvZFx14K6pNXZPr62GEuD4WoiWG-dVfTbBNZLYmuy7ljOXz8KN26MxNwuRXDHDYzw9WKvEsf33g.png" group-title="SPANISH TV",M. Deportes 4 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394706.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="SPANISH TV",M. Deportes 5 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394708.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="SPANISH TV",M. Deportes 6 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394709.m3u8
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="SPANISH TV",Eurosport 1 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394711.m3u8
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="SPANISH TV",Eurosport 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394713.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sundance_channel_global.png" group-title="SPANISH TV",Sundance TV FHD [Server 1]
+http://13.140.138.243:85/prime/local/394715.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="SPANISH TV",LA 1  FHD [Server 1]
+http://13.140.138.243:85/prime/local/394716.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="SPANISH TV",LA 1  FHD [Server 2]
+http://13.140.138.243:85/prime/local/203850.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cuatro_es.png" group-title="SPANISH TV",Cuatro FHD [Server 1]
+http://13.140.138.243:85/prime/local/394720.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cuatro_es.png" group-title="SPANISH TV",Cuatro FHD [Server 2]
+http://13.140.138.243:85/prime/local/203852.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/telecinco.png" group-title="SPANISH TV",Telecinco FHD [Server 1]
+http://13.140.138.243:85/prime/local/394721.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/telecinco.png" group-title="SPANISH TV",Telecinco FHD [Server 2]
+http://13.140.138.243:85/prime/local/203846.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/rJnS5SYNq7R_0V2LJPzO867hOTLjiw68BJrQw-opCzX2Kt4HA1L2IswFaBfC5HHxYhTURsM9-e0FAyuqNt0cJw.png" group-title="SPANISH TV",La Sexta FHD [Server 1]
+http://13.140.138.243:85/prime/local/394722.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M2SD.png" group-title="SPANISH TV",M. Dazn 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394741.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve_teledeporte.png" group-title="SPANISH TV",Teledeporte FHD [Server 1]
+http://13.140.138.243:85/prime/local/394746.m3u8
+#EXTINF:-1 tvg-logo="https://img.over-blog-kiwi.com/0/87/49/59/20190516/ob_6e82ee_eurosport4k.jpg" group-title="SPANISH TV",Eurosport 4K [Server 1]
+http://13.140.138.243:85/prime/local/394749.m3u8
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91182_ll_h3_aa.png" group-title="SPANISH TV",XTRM FHD [Server 1]
+http://13.140.138.243:85/prime/local/394751.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="SPANISH TV",M. Accion FHD [Server 1]
+http://13.140.138.243:85/prime/local/394752.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_comedia.png" group-title="SPANISH TV",M. Comedia FHD [Server 1]
+http://13.140.138.243:85/prime/local/394754.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar+drama.png" group-title="SPANISH TV",M. Drama FHD [Server 1]
+http://13.140.138.243:85/prime/local/394756.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tcm_global.png" group-title="SPANISH TV",TCM FHD [Server 1]
+http://13.140.138.243:85/prime/local/394760.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tcm_global.png" group-title="SPANISH TV",TCM FHD [Server 2]
+http://13.140.138.243:85/prime/local/203856.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_series.png" group-title="SPANISH TV",M. Series HD [Server 1]
+http://13.140.138.243:85/prime/local/394765.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_0.png" group-title="SPANISH TV",M. Plus FHD [Server 1]
+http://13.140.138.243:85/prime/local/394766.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/amc_us.png" group-title="SPANISH TV",AMC FHD [Server 1]
+http://13.140.138.243:85/prime/local/394769.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png" group-title="SPANISH TV",AXN FHD [Server 1]
+http://13.140.138.243:85/prime/local/394771.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_es.png" group-title="SPANISH TV",AXN Movies FHD [Server 1]
+http://13.140.138.243:85/prime/local/394772.m3u8
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="SPANISH TV",Warner Channel FHD [Server 1]
+http://13.140.138.243:85/prime/local/394775.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/syfy_us_global.png" group-title="SPANISH TV",SyFy FHD [Server 1]
+http://13.140.138.243:85/prime/local/394777.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/syfy_us_global.png" group-title="SPANISH TV",SyFy FHD [Server 2]
+http://13.140.138.243:85/prime/local/203847.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/comedy_central_us.png" group-title="SPANISH TV",Comedy Central FHD [Server 1]
+http://13.140.138.243:85/prime/local/394778.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/comedy_central_us.png" group-title="SPANISH TV",Comedy Central FHD [Server 2]
+http://13.140.138.243:85/prime/local/203853.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="SPANISH TV",National Geoghraphic FHD [Server 1]
+http://13.140.138.243:85/prime/local/394780.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="SPANISH TV",Nat Geo Wild FHD [Server 1]
+http://13.140.138.243:85/prime/local/394782.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="SPANISH TV",Nat Geo Wild FHD [Server 2]
+http://13.140.138.243:85/prime/local/203725.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/kCqQxHoWHFNHvZFx14K6pNXZPr62GEuD4WoiWG-dVfRpcpsVGLrRal_6i_IuWRDSwMPAYcEw7cHIU3ZPmg_kyg.png" group-title="SPANISH TV",Odisea 4K [Server 1]
+http://13.140.138.243:85/prime/local/394785.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png" group-title="SPANISH TV",Nickelodeon FHD [Server 1]
+http://13.140.138.243:85/prime/local/394795.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/kCqQxHoWHFNHvZFx14K6pNXZPr62GEuD4WoiWG-dVfTghoPz4233PGNbYWX4abUQmP3mAgXUv_bfJTEt8U-BDQ.png" group-title="SPANISH TV",Disney Channel FHD [Server 1]
+http://13.140.138.243:85/prime/local/394801.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="SPANISH TV",TV3. CAT HD (720P) [Server 1]
+http://13.140.138.243:85/prime/local/394807.m3u8
+#EXTINF:-1 tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPANISH TV",3/24 CAT FHD [Server 1]
+http://13.140.138.243:85/prime/local/394808.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_sur_andalucia_es.png" group-title="SPANISH TV",Canal Sur HD [Server 1]
+http://13.140.138.243:85/prime/local/394810.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_sur_andalucia_es.png" group-title="SPANISH TV",Canal Sur Andalucía HD [Server 1]
+http://13.140.138.243:85/prime/local/394811.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="SPANISH TV",Canal Sur 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/394812.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="SPANISH TV",M. LaLiga FHD [Server 1]
+http://13.140.138.243:85/prime/local/394853.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="SPANISH TV",M. Dazn LaLiga 1 FHD (Fibra AMZ) [Server 1]
+http://13.140.138.243:85/prime/local/394871.m3u8
+#EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="SPANISH TV",Gol FHD [Server 1]
+http://13.140.138.243:85/prime/local/394874.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_cocina.png" group-title="SPANISH TV",Canal Cocina 4K [Server 1]
+http://13.140.138.243:85/prime/local/394877.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve2.png" group-title="SPANISH TV",LA 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394878.m3u8
+#EXTINF:-1 tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/clantv.png" group-title="SPANISH TV",Clan FHD [Server 1]
+http://13.140.138.243:85/prime/local/394883.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png" group-title="SPANISH TV",M Liga de Campeones 4K [Server 1]
+http://13.140.138.243:85/prime/local/394884.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGUH.png" group-title="SPANISH TV",M. LaLiga 4K [Server 1]
+http://13.140.138.243:85/prime/local/394885.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/kCqQxHoWHFNHvZFx14K6pNXZPr62GEuD4WoiWG-dVfRvrV4Yn81h-4I4eNdT3ZAj.png" group-title="SPANISH TV",Decasa 4K [Server 1]
+http://13.140.138.243:85/prime/local/394886.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/cc/canal_cocina.png" group-title="SPANISH TV",Canal Cocina FHD [Server 1]
+http://13.140.138.243:85/prime/local/394887.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="SPANISH TV",M. LaLiga Hypermotion 2 FHD [Server 1]
+http://13.140.138.243:85/prime/local/394888.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="SPANISH TV",M. Ellas #V FHD [Server 1]
+http://13.140.138.243:85/prime/local/394894.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/qJoH-LbOl53alOq_QeBFkyyBLO_8rQhAg1s9093LJpHFgh2KCF2wJ4VE994zvq-uLY3b0SdRmDAyRAK0hJ57mHaHuE-bLhLQheU-KO-yCt3NIbI_FHMcV7k1V9aXekyDDgg-iV4-uhXdoCLAoMQzVhdKTnolsV_WgsVSRslrNQA.jpg" group-title="SPANISH TV",Sevilla FC HD [Server 1]
+http://13.140.138.243:85/prime/local/394897.m3u8
+#EXTINF:-1 tvg-logo="http://www.cmmedia.es/radio/wp-content/uploads/2015/02/CMMRadioDirecto.png" group-title="SPANISH TV",CMM HD [Server 1]
+http://13.140.138.243:85/prime/local/394899.m3u8
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="SPANISH TV",Discovery Channel FHD [Server 1]
+http://13.140.138.243:85/prime/local/394900.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="SPANISH TV",Enfamilia FHD [Server 1]
+http://13.140.138.243:85/prime/local/394901.m3u8
+#EXTINF:-1 tvg-logo="https://www.rektv.es/wp-content/uploads/2022/03/rektv-black.png" group-title="SPANISH TV",REKTV HD [Server 1]
+http://13.140.138.243:85/prime/local/394902.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/8k6lxumir8nOy5Hw_bJq-RfOb7uxW43yJRaFR2dELKgSvH4F61H0bQK-Xyk5hLz7UKibRaqONXfZ04hhA6VbxDh94BkfwTwe_69GUlcEa320LtMmloD0NRDYzqC6W9sj.jpg" group-title="SPANISH TV",Escapa TV HD [Server 1]
+http://13.140.138.243:85/prime/local/394903.m3u8
+#EXTINF:-1 tvg-logo="http://195.62.32.123//images/GOdAFtGYOw2ewXCZsC7A6vY5DGl3aGGPb3LdPXkfmQTwb32Vvv54DxHhU74zUVOvdeE6HQR6psOqSOk1sRVtqOo-9IPzmCVdza4iG0tApLE.png" group-title="SPANISH TV",DBIKE HD [Server 1]
+http://13.140.138.243:85/prime/local/394904.m3u8
+#EXTINF:-1 tvg-logo="https://allflamenco.net/static/images/logo/all-flamenco-logo-red-bg.png" group-title="SPANISH TV",All Flamenco HD [Server 1]
+http://13.140.138.243:85/prime/local/394905.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZCMD_3XXcuJMfSU64zuX0GboUWK1knYFqQvWM02wEyP_qhLO-OJGOW-wvtu627iHvfc&usqp=CAU" group-title="SPANISH TV",Surf Channel HD [Server 1]
+http://13.140.138.243:85/prime/local/394906.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Boing2016.png/240px-Boing2016.png" group-title="SPANISH TV",BOING HD [Server 1]
+http://13.140.138.243:85/prime/local/203750.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Calle_13_Universal_logo.png/200px-Calle_13_Universal_logo.png" group-title="SPANISH TV",CALLE 13 HD [Server 1]
+http://13.140.138.243:85/prime/local/203801.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",CANAL 26 HD [Server 1]
+http://13.140.138.243:85/prime/local/203778.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="SPANISH TV",CANAL DECASA [Server 1]
+http://13.140.138.243:85/prime/local/203768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",CANAL GOL [Server 1]
+http://13.140.138.243:85/prime/local/203789.m3u8
+#EXTINF:-1 tvg-logo="https://pumpkin.pt/wp-content/uploads/2017/02/logo-616.jpg" group-title="SPANISH TV",CANAL PANDA [Server 1]
+http://13.140.138.243:85/prime/local/203757.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.mypanel.tv/picon/cuatro.png" group-title="SPANISH TV",CANAL+ COCINA [Server 1]
+http://13.140.138.243:85/prime/local/203798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",CANAL+ TOROS [Server 1]
+http://13.140.138.243:85/prime/local/203797.m3u8
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/397359/Cazaypesca_250x250.jpg/fe096952-9aeb-edb7-d8c6-9964e4f11995?t=1494231076435" group-title="SPANISH TV",CAZA Y PESCA [Server 1]
+http://13.140.138.243:85/prime/local/203766.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="SPANISH TV",CLAN TV FHD [Server 1]
+http://13.140.138.243:85/prime/local/203862.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="SPANISH TV",CLAN TVE [Server 1]
+http://13.140.138.243:85/prime/local/203758.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/langfr-2880px-Comedy_Central_2018.svg.png" group-title="SPANISH TV",COMEDY CENTRAL [Server 1]
+http://13.140.138.243:85/prime/local/203800.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/langfr-260px-Cosmo_TV_logo.svg.png" group-title="SPANISH TV",COSMO [Server 1]
+http://13.140.138.243:85/prime/local/203799.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="SPANISH TV",COSMO FHD [Server 1]
+http://13.140.138.243:85/prime/local/203861.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="SPANISH TV",CRIME & INVESTIGATION [Server 1]
+http://13.140.138.243:85/prime/local/203765.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/2880px-Discovery_Channel_logo_2009.svg.png" group-title="SPANISH TV",DISCOVERY CHANNEL [Server 1]
+http://13.140.138.243:85/prime/local/203771.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="SPANISH TV",DISCOVERY MAX [Server 1]
+http://13.140.138.243:85/prime/local/203770.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="SPANISH TV",DISNEY CHANNEL [Server 1]
+http://13.140.138.243:85/prime/local/203756.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Disney_Junior.png/400px-Disney_Junior.png" group-title="SPANISH TV",DISNEY JUNIOR [Server 1]
+http://13.140.138.243:85/prime/local/203755.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/langfr-300px-Disney_XD_-_2015.svg.png" group-title="SPANISH TV",DISNEY XD [Server 1]
+http://13.140.138.243:85/prime/local/203754.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPANISH TV",DIVINITY HD [Server 1]
+http://13.140.138.243:85/prime/local/203746.m3u8
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/712.png" group-title="SPANISH TV",DMAX HD [Server 1]
+http://13.140.138.243:85/prime/local/203776.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo-thumbnail.png" group-title="SPANISH TV",ENERGY HD [Server 1]
+http://13.140.138.243:85/prime/local/203817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",ESPN [Server 1]
+http://13.140.138.243:85/prime/local/203779.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="SPANISH TV",EUROSPORT 1 [Server 1]
+http://13.140.138.243:85/prime/local/203781.m3u8
+#EXTINF:-1 tvg-logo="https://ornethd.net/wp-content/uploads/2020/05/40000000215.png" group-title="SPANISH TV",EUROSPORT 2 [Server 1]
+http://13.140.138.243:85/prime/local/203780.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/2880px-FOX_wordmark-orange.svg.png" group-title="SPANISH TV",FOX HD [Server 1]
+http://13.140.138.243:85/prime/local/203813.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/langfr-500px-Fox_life_logo.svg.png" group-title="SPANISH TV",FOX LIFE HD [Server 1]
+http://13.140.138.243:85/prime/local/203812.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Canal%2B_Gol.png" group-title="SPANISH TV",GOL TV [Server 1]
+http://13.140.138.243:85/prime/local/203795.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Historia_Logo_2015.png/280px-Historia_Logo_2015.png" group-title="SPANISH TV",HISTORIA HD [Server 1]
+http://13.140.138.243:85/prime/local/203763.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Canal_Hollywood.svg/langfr-2880px-Canal_Hollywood.svg.png" group-title="SPANISH TV",HOLLYWOOD FHD [Server 1]
+http://13.140.138.243:85/prime/local/203851.m3u8
+#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/la-liga-logo-600x600.jpg" group-title="SPANISH TV",LA LIGA 1 [Server 1]
+http://13.140.138.243:85/prime/local/203793.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",LA LIGATV BAR HD [Server 1]
+http://13.140.138.243:85/prime/local/203788.m3u8
+#EXTINF:-1 tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/laliga-123-tv-logo-vector.png" group-title="SPANISH TV",LIGA 123 HD [Server 1]
+http://13.140.138.243:85/prime/local/203794.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/300px-2015megaoficial.png" group-title="SPANISH TV",MEGA HD [Server 1]
+http://13.140.138.243:85/prime/local/203764.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="SPANISH TV",MEZZO LIVE HD [Server 1]
+http://13.140.138.243:85/prime/local/203748.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="SPANISH TV",MOVISTAR ACCION FHD [Server 1]
+http://13.140.138.243:85/prime/local/203860.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 1 HD [Server 1]
+http://13.140.138.243:85/prime/local/203734.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 2 HD [Server 1]
+http://13.140.138.243:85/prime/local/203733.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 3 HD [Server 1]
+http://13.140.138.243:85/prime/local/203732.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 4 HD [Server 1]
+http://13.140.138.243:85/prime/local/203731.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 5 HD [Server 1]
+http://13.140.138.243:85/prime/local/203730.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 6 HD [Server 1]
+http://13.140.138.243:85/prime/local/203729.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 7 HD [Server 1]
+http://13.140.138.243:85/prime/local/203728.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 8 HD [Server 1]
+http://13.140.138.243:85/prime/local/203727.m3u8
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="SPANISH TV",MOVISTAR ALQUILER 9 HD [Server 1]
+http://13.140.138.243:85/prime/local/203726.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPANISH TV",MOVISTAR CINE N [Server 1]
+http://13.140.138.243:85/prime/local/203811.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Movistar_CineDoc%26Roll.svg/1726px-Movistar_CineDoc%26Roll.svg.png" group-title="SPANISH TV",MOVISTAR CINEDOC&ROLL FHD [Server 1]
+http://13.140.138.243:85/prime/local/203859.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/movistar-cinedocdoll.jpg" group-title="SPANISH TV",MOVISTAR CINEDOC&ROLL HD [Server 1]
+http://13.140.138.243:85/prime/local/203810.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png" group-title="SPANISH TV",MOVISTAR COMEDIA FHD [Server 1]
+http://13.140.138.243:85/prime/local/203858.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1280px-Movistar_DCine.svg.png" group-title="SPANISH TV",MOVISTAR DCINE FHD [Server 1]
+http://13.140.138.243:85/prime/local/203849.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png" group-title="SPANISH TV",MOVISTAR DEPORTES 1 [Server 1]
+http://13.140.138.243:85/prime/local/203792.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="SPANISH TV",MOVISTAR DRAMA FHD [Server 1]
+http://13.140.138.243:85/prime/local/203807.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="SPANISH TV",MOVISTAR DRAMA HD [Server 1]
+http://13.140.138.243:85/prime/local/203806.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/400px-Movistar_Formula_1.svg.png" group-title="SPANISH TV",MOVISTAR F1 HD [Server 1]
+http://13.140.138.243:85/prime/local/203784.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/400px-Movistar_F%C3%BAtbol.svg.png" group-title="SPANISH TV",MOVISTAR FUTBOL [Server 1]
+http://13.140.138.243:85/prime/local/203783.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",MOVISTAR GOLF FHD [Server 1]
+http://13.140.138.243:85/prime/local/203843.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/langfr-400px-Movistar_Golf.svg.png" group-title="SPANISH TV",MOVISTAR GOLF HD [Server 1]
+http://13.140.138.243:85/prime/local/203785.m3u8
+#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/liga-campeones.png" group-title="SPANISH TV",MOVISTAR LIGA CAMPEONES HD [Server 1]
+http://13.140.138.243:85/prime/local/203791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",MOVISTAR MOTO GP [Server 1]
+http://13.140.138.243:85/prime/local/203782.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/350px-Movistar_Series.svg.png" group-title="SPANISH TV",MOVISTAR SERIES HD [Server 1]
+http://13.140.138.243:85/prime/local/203809.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/400px-Movistar_Seriesman%C3%ADa.svg.png" group-title="SPANISH TV",MOVISTAR SERIESMANIA [Server 1]
+http://13.140.138.243:85/prime/local/203808.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/400px-Movistar_Seriesman%C3%ADa.svg.png" group-title="SPANISH TV",MOVISTAR SERIESMANIA FHD [Server 1]
+http://13.140.138.243:85/prime/local/203857.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/400px-Movistar_Seriesman%C3%ADa.svg.png" group-title="SPANISH TV",MOVISTAR SERIESMANIA HD [Server 1]
+http://13.140.138.243:85/prime/local/203805.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg" group-title="SPANISH TV",MOVISTAR VAMOS FHD [Server 1]
+http://13.140.138.243:85/prime/local/203790.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/2560px-Movistar_Xtra.svg.png" group-title="SPANISH TV",MOVISTAR XTRA FHD [Server 1]
+http://13.140.138.243:85/prime/local/203848.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/langfr-2560px-MTV_Logo_2010.svg.png" group-title="SPANISH TV",MTV ESPANA [Server 1]
+http://13.140.138.243:85/prime/local/203747.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",MUNDOTORO HD [Server 1]
+http://13.140.138.243:85/prime/local/203724.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/langfr-2880px-Logo_Nat_Geo_Wild.svg.png" group-title="SPANISH TV",NAT GEO WILD HD [Server 1]
+http://13.140.138.243:85/prime/local/203772.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SPANISH TV",NATIONAL GEO FHD [Server 1]
+http://13.140.138.243:85/prime/local/203845.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SPANISH TV",NATIONAL GEOGRAPHIC HD [Server 1]
+http://13.140.138.243:85/prime/local/203773.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_neox_2014.png" group-title="SPANISH TV",NEOX TV [Server 1]
+http://13.140.138.243:85/prime/local/203815.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Nickelodeon_Junior.svg/langfr-440px-Nickelodeon_Junior.svg.png" group-title="SPANISH TV",NICK JUNIOR [Server 1]
+http://13.140.138.243:85/prime/local/203752.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="SPANISH TV",NICKELODEON HD [Server 1]
+http://13.140.138.243:85/prime/local/203753.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NOVATV-bg_logo.png" group-title="SPANISH TV",NOVA HD [Server 1]
+http://13.140.138.243:85/prime/local/203816.m3u8
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/179872/logo_odisea5.png" group-title="SPANISH TV",ODISEA HD [Server 1]
+http://13.140.138.243:85/prime/local/203769.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/828/96/png-clipart-giant-panda-canal-panda-television-channel-odisseia-biggs-panda-logo-television-text.png" group-title="SPANISH TV",PANDA [Server 1]
+http://13.140.138.243:85/prime/local/203751.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="SPANISH TV",REAL MADRID  TV [Server 1]
+http://13.140.138.243:85/prime/local/203787.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="SPANISH TV",SUNDANCE HD [Server 1]
+http://13.140.138.243:85/prime/local/203774.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/langfr-2880px-SYFY.svg.png" group-title="SPANISH TV",SYFY HD [Server 1]
+http://13.140.138.243:85/prime/local/203802.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="SPANISH TV",TAQUILLA 1 [Server 1]
+http://13.140.138.243:85/prime/local/203744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",TAQUILLA 10 [Server 1]
+http://13.140.138.243:85/prime/local/203735.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b49d65_ead09d56961c4c369942c8c434ff5fb6~mv2.png/v1/fill/w_662,h_511,al_c,q_90/file.jpg" group-title="SPANISH TV",TAQUILLA 2 [Server 1]
+http://13.140.138.243:85/prime/local/203743.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b49d65_ead09d56961c4c369942c8c434ff5fb6~mv2.png/v1/fill/w_662,h_511,al_c,q_90/file.jpg" group-title="SPANISH TV",TAQUILLA 3 [Server 1]
+http://13.140.138.243:85/prime/local/203742.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b49d65_ead09d56961c4c369942c8c434ff5fb6~mv2.png/v1/fill/w_662,h_511,al_c,q_90/file.jpg" group-title="SPANISH TV",TAQUILLA 4 [Server 1]
+http://13.140.138.243:85/prime/local/203741.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b49d65_ead09d56961c4c369942c8c434ff5fb6~mv2.png/v1/fill/w_662,h_511,al_c,q_90/file.jpg" group-title="SPANISH TV",TAQUILLA 5 [Server 1]
+http://13.140.138.243:85/prime/local/203740.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b49d65_ead09d56961c4c369942c8c434ff5fb6~mv2.png/v1/fill/w_662,h_511,al_c,q_90/file.jpg" group-title="SPANISH TV",TAQUILLA 6 [Server 1]
+http://13.140.138.243:85/prime/local/203739.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b49d65_ead09d56961c4c369942c8c434ff5fb6~mv2.png/v1/fill/w_662,h_511,al_c,q_90/file.jpg" group-title="SPANISH TV",TAQUILLA 7 [Server 1]
+http://13.140.138.243:85/prime/local/203738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",TAQUILLA 8 [Server 1]
+http://13.140.138.243:85/prime/local/203737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",TAQUILLA 9 [Server 1]
+http://13.140.138.243:85/prime/local/203736.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPANISH TV",TNT FHD [Server 1]
+http://13.140.138.243:85/prime/local/203844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",TRECE HD [Server 1]
+http://13.140.138.243:85/prime/local/203762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPANISH TV",TVE CLAN [Server 1]
+http://13.140.138.243:85/prime/local/203759.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="SPANISH TV",VIAJAR HD [Server 1]
+http://13.140.138.243:85/prime/local/203775.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR ARRYADIA HD 1 [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/262760.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  2M MAROC [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175807.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  2M MAROC Hevc [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175806.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  2M MONDE TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175819.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  2M MONDE TNT  + 1H [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175818.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  AFLAM 7 HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175801.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  AL AOULA INTER [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175810.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  AL Aoula Inter HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175811.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Al Aoula Inter HD TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175822.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Al Aoula Inter HD TNT + 1H [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175820.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Al Aoula Inter hevc [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175809.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  AL AOULA LAAYOUNE HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175808.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Al Aoula Laayoune TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175821.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Al MAGHRIBIA HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175803.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Al Maghribiya HD TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175815.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  AL ONS [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175799.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Arrabiaa HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175804.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Arrabiaa TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175816.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  ARRYADIA HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175805.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Arryadia HD TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175817.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  ASSADISSA HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175802.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Assadissa HD TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175814.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Atlantic Radio [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175785.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  CHADA TV [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175793.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  HIT RADIO [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175782.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  M24 TV NEWS [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175795.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  MEDI1 RADIO [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175780.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  MEDI1TV AFRIQUE [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175796.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  MEDI1TV ARABIC [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175798.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  MEDI1TV MAGHRIB [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175797.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  ONLY RAÏ [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175778.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  RADIO MARS [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175776.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  TAMAZIGHT HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175800.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  Tamazight HD TNT [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175813.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AR.MAR  TELE MAROC HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175794.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",MBC 5 [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/175812.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",2M MONDE FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260718.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",2M TV SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260719.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL MAGHRIBIA FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260720.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL OULA INTER FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260721.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",LAAYOUNE TV FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260722.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ARRYADIA FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260723.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ASSADISSA FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260724.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ATHAQAFIA FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260725.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AFLAM 7 FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260726.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",MEDI 1 TV ARABIC FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260727.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",MEDI1TV AFRIQUE HD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260728.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",TAMAZIGHT FHD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260729.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL MAGHRIBIA SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260730.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL OULA INTER SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260731.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ARRYADIA SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260732.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ASSADISSA SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260733.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ATHAQAFIA SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260734.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",TAMAZIGHT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260735.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",CHADA TV SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260736.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",LAAYOUNE TV SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260737.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",M24 MAROC SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260738.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL ONS TV SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260739.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL OULA INTER TNT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260740.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL OULA LAAYOUNE TNT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260741.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ARRYADIA TNT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260742.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ARRABIA TNT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260743.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",AL MAGHRIBIYA TNT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260744.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ma.png" group-title="MOROCCO TV",ASSADISSA TNT SD [Server 1]
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/260745.m3u8
